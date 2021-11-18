@@ -1,0 +1,424 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https:\/\/www.peoplescollection.wales\/users\/6827\/manifest.json",
+    "label": "Peoples Collection Wales - Gruffydd",
+    "description": "Content by Gruffydd.",
+    "attribution": "Gruffydd",
+    "logo": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/pcw-brand003.gif",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2014\/September\/Snook0001.jpg",
+                    "label": "Image for node 389627",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2014\/September\/Snook0001.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/389627\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2014\/September\/Snook0001.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2014\/September\/scan0028.jpg",
+                    "label": "Image for node 389628",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2014\/September\/scan0028.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/389628\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2014\/September\/scan0028.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/Eclipse.jpg",
+                    "label": "Image for node 437592",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/April\/Eclipse.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/437592\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/Eclipse.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/Eclipse2.jpg",
+                    "label": "Image for node 437594",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/April\/Eclipse2.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/437594\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/Eclipse2.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/9.jpg",
+                    "label": "Image for node 444633",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/April\/9.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/444633\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/9.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/11.jpg",
+                    "label": "Image for node 445579",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/April\/11.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/445579\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/11.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/22.jpg",
+                    "label": "Image for node 445580",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/April\/22.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/445580\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/April\/22.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/July\/paxton_1_web.jpg",
+                    "label": "Image for node 466643",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/July\/paxton_1_web.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/466643\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/July\/paxton_1_web.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001a.jpg",
+                    "label": "Image for node 477520",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/November\/a001a.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/477520\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001a.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001d.jpg",
+                    "label": "Image for node 477521",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/November\/a001d.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/477521\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001d.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001c.jpg",
+                    "label": "Image for node 477527",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/November\/a001c.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/477527\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001c.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001e.jpg",
+                    "label": "Image for node 477557",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2015\/November\/a001e.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/477557\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/November\/a001e.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/April\/296.JPG",
+                    "label": "Image for node 573686",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/April\/296.JPG",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/573686\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/April\/296.JPG",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2018\/February\/003.jpg",
+                    "label": "Image for node 774001",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2018\/February\/003.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/774001\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2018\/February\/003.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2018\/February\/004.jpg",
+                    "label": "Image for node 774016",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2018\/February\/004.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/774016\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2018\/February\/004.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/June\/4.jpg",
+                    "label": "Image for node 1130446",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/June\/4.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/1130446\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/June\/4.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2018\/February\/001.jpg",
+                    "label": "Image for node 774006",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2018\/February\/001.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": {
+                        "@type": "oa:Annotation",
+                        "motivation": "sc:painting",
+                        "on": "https:\/\/www.peoplescollection.wales\/node\/774006\/canvas\/1",
+                        "resource": {
+                            "@type": "dctypes:Image",
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2018\/February\/001.jpg",
+                            "width": 6000,
+                            "height": 6000
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
