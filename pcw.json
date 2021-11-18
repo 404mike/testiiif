@@ -34,6 +34,33 @@
           ]
         }
       ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2",
+      "type": "Canvas",
+      "height": 1800,
+      "width": 1200,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/page/p1/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://www.peoplescollection.wales/sites/default/files/images/2021/November/VOG02588.jpg?itok=zzsScyfM",
+                "type": "Image",
+                "format": "image/png",
+                "height": 1800,
+                "width": 1200
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0001-mvm-image/canvas/p2"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
