@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/index.json",
+  "@type": "sc:Collection",
+  "attribution": "Attribution",
+  "description": "Description",
+  "label": "Peoples Collection Torf Test",
+  "manifests": [
+      {
+          "@id": "https://raw.githubusercontent.com/404mike/testiiif/main/2817.json",
+          "@type": "sc:Manifest",
+          "label": "Glamorgan Archives - Archifau Morgannwg"
+      },
+      {
+          "@id": "https://raw.githubusercontent.com/404mike/testiiif/main/3576.json",
+          "@type": "sc:Manifest",
+          "label": "Mike"
+      },
+      {
+          "@id": "https://raw.githubusercontent.com/404mike/testiiif/main/52581.json",
+          "@type": "sc:Manifest",
+          "label": "Rhyl Library"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/404mike/testiiif/main/6827.json",
+        "@type": "sc:Manifest",
+        "label": "Gruffydd"
+    }
+  ],
+  "viewingHint": "top"
+}
