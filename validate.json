@@ -1,0 +1,42 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https:\/\/404mike.github.io\/testiiif/\/6827\/manifest.json",
+    "label": "Peoples Collection Wales - Gruffydd",
+    "description": "Content by Gruffydd.",
+    "attribution": "Gruffydd",
+    "logo": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/pcw-brand003.gif",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2014\/September\/Snook0001.jpg",
+                    "label": "Image for node 389627",
+                    "width": 6099,
+                    "height": 8599,
+                    "thumbnail": {
+                        "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2014\/September\/Snook0001.jpg",
+                        "@type": "dctypes:Image",
+                        "width": 150,
+                        "height": 250
+                    },
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https:\/\/www.peoplescollection.wales\/node\/389627\/canvas\/1",
+                            "resource": {
+                                "@type": "dctypes:Image",
+                                "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2014\/September\/Snook0001.jpg",
+                                "width": 6000,
+                                "height": 6000
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
