@@ -7,22 +7,22 @@
   "label": "Peoples Collection Torf Test",
   "manifests": [
       {
-          "@id": "https://404mike.github.io/testiiif/main/2817.json",
+          "@id": "https://404mike.github.io/testiiif/2817.json",
           "@type": "sc:Manifest",
           "label": "Glamorgan Archives - Archifau Morgannwg"
       },
       {
-          "@id": "https://404mike.github.io/testiiif/main/3576.json",
+          "@id": "https://404mike.github.io/testiiif/3576.json",
           "@type": "sc:Manifest",
           "label": "Mike"
       },
       {
-          "@id": "https://404mike.github.io/testiiif/main/52581.json",
+          "@id": "https://404mike.github.io/testiiif/52581.json",
           "@type": "sc:Manifest",
           "label": "Rhyl Library"
       },
       {
-        "@id": "https://404mike.github.io/testiiif/main/6827.json",
+        "@id": "https://404mike.github.io/testiiif/6827.json",
         "@type": "sc:Manifest",
         "label": "Gruffydd"
     }
