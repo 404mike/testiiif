@@ -20,7 +20,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_1015.JPG",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -31,8 +32,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1015.JPG",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1015.JPG"
                         }
                     ]
                 },
@@ -46,7 +49,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0718.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -57,8 +61,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0718.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0718.jpg"
                         }
                     ]
                 },
@@ -72,7 +78,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20180330_143237.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -83,8 +90,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180330_143237.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180330_143237.jpg"
                         }
                     ]
                 },
@@ -98,7 +107,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20180330_143429.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -109,8 +119,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180330_143429.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180330_143429.jpg"
                         }
                     ]
                 },
@@ -124,7 +136,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20180422_143711.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -135,8 +148,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180422_143711.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180422_143711.jpg"
                         }
                     ]
                 },
@@ -150,7 +165,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20180519_105459.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -161,8 +177,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180519_105459.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180519_105459.jpg"
                         }
                     ]
                 },
@@ -176,7 +194,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20170823_210539.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -187,8 +206,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20170823_210539.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20170823_210539.jpg"
                         }
                     ]
                 },
@@ -202,7 +223,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/DSC_0123.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -213,8 +235,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/DSC_0123.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/DSC_0123.jpg"
                         }
                     ]
                 },
@@ -228,7 +252,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20180722_211342.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -239,8 +264,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180722_211342.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180722_211342.jpg"
                         }
                     ]
                 },
@@ -254,7 +281,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20190526_152322.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -265,8 +293,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20190526_152322.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20190526_152322.jpg"
                         }
                     ]
                 },
@@ -280,7 +310,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20190420_115726.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -291,8 +322,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20190420_115726.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20190420_115726.jpg"
                         }
                     ]
                 },
@@ -306,7 +339,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/May\/IMG_20180707_092041.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -317,8 +351,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180707_092041.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180707_092041.jpg"
                         }
                     ]
                 },
@@ -332,7 +368,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/June\/llun038.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -343,8 +380,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/June\/llun038.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/June\/llun038.jpg"
                         }
                     ]
                 },
@@ -358,7 +397,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/August\/llun041a.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -369,8 +409,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/August\/llun041a.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/August\/llun041a.jpg"
                         }
                     ]
                 },
@@ -384,7 +426,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2019\/September\/PANO_20190914_111215.vr.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -395,8 +438,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/September\/PANO_20190914_111215.vr.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/September\/PANO_20190914_111215.vr.jpg"
                         }
                     ]
                 },
@@ -410,7 +455,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2020\/May\/family018.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -421,8 +467,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2020\/May\/family018.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2020\/May\/family018.jpg"
                         }
                     ]
                 },
@@ -436,7 +484,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2020\/May\/family017.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -447,8 +496,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2020\/May\/family017.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2020\/May\/family017.jpg"
                         }
                     ]
                 },
@@ -462,7 +513,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/FullSizeRender.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -473,8 +525,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/FullSizeRender.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/FullSizeRender.jpg"
                         }
                     ]
                 },
@@ -488,7 +542,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/FullSizeRender_2.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -499,8 +554,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/FullSizeRender_2.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/FullSizeRender_2.jpg"
                         }
                     ]
                 },
@@ -514,7 +571,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_2028-PANO.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -525,8 +583,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2028-PANO.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2028-PANO.jpg"
                         }
                     ]
                 },
@@ -540,7 +600,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_2034-PANO.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -551,8 +612,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2034-PANO.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2034-PANO.jpg"
                         }
                     ]
                 },
@@ -566,7 +629,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_2039.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -577,8 +641,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2039.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2039.jpg"
                         }
                     ]
                 },
@@ -592,7 +658,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_2043.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -603,8 +670,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2043.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2043.jpg"
                         }
                     ]
                 },
@@ -618,7 +687,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_1945-PANO.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -629,8 +699,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1945-PANO.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1945-PANO.jpg"
                         }
                     ]
                 },
@@ -644,7 +716,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_1948.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -655,8 +728,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1948.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1948.jpg"
                         }
                     ]
                 },
@@ -670,7 +745,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_1953.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -681,8 +757,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1953.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1953.jpg"
                         }
                     ]
                 },
@@ -696,7 +774,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_1963.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -707,8 +786,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1963.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1963.jpg"
                         }
                     ]
                 },
@@ -722,7 +803,8 @@
                         "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_1965.jpg",
                         "@type": "dctypes:Image",
                         "width": 150,
-                        "height": 250
+                        "height": 250,
+                        "format": "image\/jpeg"
                     },
                     "images": [
                         {
@@ -733,8 +815,10 @@
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1965.jpg",
                                 "width": 6000,
-                                "height": 6000
-                            }
+                                "height": 6000,
+                                "format": "image\/jpeg"
+                            },
+                            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1965.jpg"
                         }
                     ]
                 }
