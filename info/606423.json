@@ -1,6 +1,7 @@
 {
     "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
     "@id": "https:\/\/404mike.github.io\/testiiif\/info\/606423.json",
+    "@type": "dctypes:Image",
     "width": 5824,
     "height": 1904,
     "protocol": "http:\/\/iiif.io\/api\/image",
