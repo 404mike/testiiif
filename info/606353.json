@@ -8,7 +8,7 @@
     "tiles": [],
     "profile": [
         {
-            "http:\/\/iiif.io\/api\/image\/level0.json": {
+            "http:\/\/iiif.io\/api\/image\/level1.json": {
                 "formats": [
                     "jpg"
                 ],
