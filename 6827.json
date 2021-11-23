@@ -13,7 +13,7 @@
             "canvases": [
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/1",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/389627.json",
                     "label": "Image for node 389627",
                     "width": 710,
                     "height": 1115,
@@ -42,7 +42,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/2",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/389628.json",
                     "label": "Image for node 389628",
                     "width": 684,
                     "height": 699,
@@ -71,7 +71,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/3",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/437592.json",
                     "label": "Image for node 437592",
                     "width": 1400,
                     "height": 884,
@@ -100,7 +100,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/4",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/437594.json",
                     "label": "Image for node 437594",
                     "width": 1500,
                     "height": 931,
@@ -129,7 +129,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/5",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/444633.json",
                     "label": "Image for node 444633",
                     "width": 1807,
                     "height": 1157,
@@ -158,7 +158,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/6",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/445579.json",
                     "label": "Image for node 445579",
                     "width": 1100,
                     "height": 702,
@@ -187,7 +187,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/7",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/445580.json",
                     "label": "Image for node 445580",
                     "width": 1100,
                     "height": 715,
@@ -216,7 +216,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/8",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/466643.json",
                     "label": "Image for node 466643",
                     "width": 1250,
                     "height": 792,
@@ -245,7 +245,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/9",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/477520.json",
                     "label": "Image for node 477520",
                     "width": 1300,
                     "height": 815,
@@ -274,7 +274,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/10",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/477521.json",
                     "label": "Image for node 477521",
                     "width": 823,
                     "height": 1250,
@@ -303,7 +303,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/11",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/477527.json",
                     "label": "Image for node 477527",
                     "width": 1200,
                     "height": 797,
@@ -332,7 +332,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/12",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/477557.json",
                     "label": "Image for node 477557",
                     "width": 803,
                     "height": 1250,
@@ -361,7 +361,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/13",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/573686.json",
                     "label": "Image for node 573686",
                     "width": 1600,
                     "height": 1345,
@@ -390,7 +390,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/14",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/774001.json",
                     "label": "Image for node 774001",
                     "width": 1100,
                     "height": 719,
@@ -419,7 +419,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/15",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/774016.json",
                     "label": "Image for node 774016",
                     "width": 1100,
                     "height": 738,
@@ -448,7 +448,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/16",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/1130446.json",
                     "label": "Image for node 1130446",
                     "width": 1800,
                     "height": 1376,
@@ -477,7 +477,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827.json\/sequence\/0\/canvas\/17",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/canvas\/774006.json",
                     "label": "Image for node 774006",
                     "width": 1100,
                     "height": 721,
