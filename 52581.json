@@ -9,10 +9,11 @@
     "sequences": [
         {
             "@type": "sc:Sequence",
+            "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0",
             "canvases": [
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671781.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/1",
                     "label": "Image for node 1671781",
                     "width": 1681,
                     "height": 1102,
@@ -26,6 +27,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671781.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671781.json",
                             "resource": {
@@ -40,7 +42,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671811.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/2",
                     "label": "Image for node 1671811",
                     "width": 1662,
                     "height": 1054,
@@ -54,6 +56,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671811.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671811.json",
                             "resource": {
@@ -68,7 +71,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671821.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/3",
                     "label": "Image for node 1671821",
                     "width": 1627,
                     "height": 1060,
@@ -82,6 +85,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671821.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671821.json",
                             "resource": {
@@ -96,7 +100,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671841.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/4",
                     "label": "Image for node 1671841",
                     "width": 1567,
                     "height": 923,
@@ -110,6 +114,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671841.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671841.json",
                             "resource": {
@@ -124,7 +129,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671851.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/5",
                     "label": "Image for node 1671851",
                     "width": 1692,
                     "height": 1120,
@@ -138,6 +143,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671851.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671851.json",
                             "resource": {
@@ -152,7 +158,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671956.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/6",
                     "label": "Image for node 1671956",
                     "width": 1656,
                     "height": 1066,
@@ -166,6 +172,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671956.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671956.json",
                             "resource": {
@@ -180,7 +187,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671961.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/7",
                     "label": "Image for node 1671961",
                     "width": 1633,
                     "height": 1071,
@@ -194,6 +201,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1671961.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1671961.json",
                             "resource": {
@@ -208,7 +216,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672001.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/8",
                     "label": "Image for node 1672001",
                     "width": 1639,
                     "height": 1003,
@@ -222,6 +230,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672001.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672001.json",
                             "resource": {
@@ -236,7 +245,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672036.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/9",
                     "label": "Image for node 1672036",
                     "width": 1612,
                     "height": 1044,
@@ -250,6 +259,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672036.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672036.json",
                             "resource": {
@@ -264,7 +274,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672061.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/10",
                     "label": "Image for node 1672061",
                     "width": 1626,
                     "height": 1023,
@@ -278,6 +288,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672061.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672061.json",
                             "resource": {
@@ -292,7 +303,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672076.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/11",
                     "label": "Image for node 1672076",
                     "width": 1626,
                     "height": 1084,
@@ -306,6 +317,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672076.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672076.json",
                             "resource": {
@@ -320,7 +332,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672176.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/12",
                     "label": "Image for node 1672176",
                     "width": 1716,
                     "height": 1072,
@@ -334,6 +346,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672176.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672176.json",
                             "resource": {
@@ -348,7 +361,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672196.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/13",
                     "label": "Image for node 1672196",
                     "width": 1621,
                     "height": 1042,
@@ -362,6 +375,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672196.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672196.json",
                             "resource": {
@@ -376,7 +390,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672216.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/14",
                     "label": "Image for node 1672216",
                     "width": 3264,
                     "height": 2448,
@@ -390,6 +404,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672216.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672216.json",
                             "resource": {
@@ -404,7 +419,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672231.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/15",
                     "label": "Image for node 1672231",
                     "width": 1616,
                     "height": 1008,
@@ -418,6 +433,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672231.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672231.json",
                             "resource": {
@@ -432,7 +448,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672241.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/16",
                     "label": "Image for node 1672241",
                     "width": 3264,
                     "height": 2448,
@@ -446,6 +462,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672241.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672241.json",
                             "resource": {
@@ -460,7 +477,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672256.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/17",
                     "label": "Image for node 1672256",
                     "width": 1632,
                     "height": 1008,
@@ -474,6 +491,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672256.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672256.json",
                             "resource": {
@@ -488,7 +506,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672301.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/18",
                     "label": "Image for node 1672301",
                     "width": 1552,
                     "height": 960,
@@ -502,6 +520,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672301.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672301.json",
                             "resource": {
@@ -516,7 +535,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672316.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/19",
                     "label": "Image for node 1672316",
                     "width": 1616,
                     "height": 1008,
@@ -530,6 +549,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672316.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672316.json",
                             "resource": {
@@ -544,7 +564,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672346.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/20",
                     "label": "Image for node 1672346",
                     "width": 1597,
                     "height": 1018,
@@ -558,6 +578,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672346.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672346.json",
                             "resource": {
@@ -572,7 +593,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672356.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/21",
                     "label": "Image for node 1672356",
                     "width": 1638,
                     "height": 1042,
@@ -586,6 +607,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672356.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672356.json",
                             "resource": {
@@ -600,7 +622,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672366.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/22",
                     "label": "Image for node 1672366",
                     "width": 1696,
                     "height": 1015,
@@ -614,6 +636,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672366.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672366.json",
                             "resource": {
@@ -628,7 +651,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672381.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/23",
                     "label": "Image for node 1672381",
                     "width": 1662,
                     "height": 1026,
@@ -642,6 +665,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672381.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672381.json",
                             "resource": {
@@ -656,7 +680,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672396.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/24",
                     "label": "Image for node 1672396",
                     "width": 1635,
                     "height": 1030,
@@ -670,6 +694,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672396.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672396.json",
                             "resource": {
@@ -684,7 +709,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672411.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/25",
                     "label": "Image for node 1672411",
                     "width": 1650,
                     "height": 1049,
@@ -698,6 +723,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672411.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672411.json",
                             "resource": {
@@ -712,7 +738,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672426.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/26",
                     "label": "Image for node 1672426",
                     "width": 1656,
                     "height": 1060,
@@ -726,6 +752,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672426.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672426.json",
                             "resource": {
@@ -740,7 +767,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672571.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/27",
                     "label": "Image for node 1672571",
                     "width": 1610,
                     "height": 1005,
@@ -754,6 +781,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672571.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672571.json",
                             "resource": {
@@ -768,7 +796,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672586.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/28",
                     "label": "Image for node 1672586",
                     "width": 1446,
                     "height": 833,
@@ -782,6 +810,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672586.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672586.json",
                             "resource": {
@@ -796,7 +825,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672606.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/29",
                     "label": "Image for node 1672606",
                     "width": 1600,
                     "height": 1008,
@@ -810,6 +839,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672606.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672606.json",
                             "resource": {
@@ -824,7 +854,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672621.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/30",
                     "label": "Image for node 1672621",
                     "width": 1584,
                     "height": 992,
@@ -838,6 +868,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672621.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672621.json",
                             "resource": {
@@ -852,7 +883,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672636.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/31",
                     "label": "Image for node 1672636",
                     "width": 1600,
                     "height": 1024,
@@ -866,6 +897,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672636.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672636.json",
                             "resource": {
@@ -880,7 +912,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672651.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/32",
                     "label": "Image for node 1672651",
                     "width": 1616,
                     "height": 1040,
@@ -894,6 +926,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672651.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672651.json",
                             "resource": {
@@ -908,7 +941,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672661.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/33",
                     "label": "Image for node 1672661",
                     "width": 1629,
                     "height": 1040,
@@ -922,6 +955,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672661.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672661.json",
                             "resource": {
@@ -936,7 +970,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672676.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/34",
                     "label": "Image for node 1672676",
                     "width": 1648,
                     "height": 1024,
@@ -950,6 +984,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672676.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672676.json",
                             "resource": {
@@ -964,7 +999,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672736.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/35",
                     "label": "Image for node 1672736",
                     "width": 1613,
                     "height": 1006,
@@ -978,6 +1013,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672736.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672736.json",
                             "resource": {
@@ -992,7 +1028,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672751.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/36",
                     "label": "Image for node 1672751",
                     "width": 1616,
                     "height": 1008,
@@ -1006,6 +1042,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672751.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672751.json",
                             "resource": {
@@ -1020,7 +1057,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672766.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/37",
                     "label": "Image for node 1672766",
                     "width": 1599,
                     "height": 1008,
@@ -1034,6 +1071,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672766.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672766.json",
                             "resource": {
@@ -1048,7 +1086,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672896.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/38",
                     "label": "Image for node 1672896",
                     "width": 1616,
                     "height": 1055,
@@ -1062,6 +1100,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672896.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672896.json",
                             "resource": {
@@ -1076,7 +1115,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672911.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/39",
                     "label": "Image for node 1672911",
                     "width": 1587,
                     "height": 986,
@@ -1090,6 +1129,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672911.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672911.json",
                             "resource": {
@@ -1104,7 +1144,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672926.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/40",
                     "label": "Image for node 1672926",
                     "width": 1627,
                     "height": 1049,
@@ -1118,6 +1158,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672926.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672926.json",
                             "resource": {
@@ -1132,7 +1173,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672951.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/41",
                     "label": "Image for node 1672951",
                     "width": 1645,
                     "height": 1066,
@@ -1146,6 +1187,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672951.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672951.json",
                             "resource": {
@@ -1160,7 +1202,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672966.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/42",
                     "label": "Image for node 1672966",
                     "width": 1622,
                     "height": 1043,
@@ -1174,6 +1216,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672966.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672966.json",
                             "resource": {
@@ -1188,7 +1231,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672981.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/43",
                     "label": "Image for node 1672981",
                     "width": 1639,
                     "height": 1066,
@@ -1202,6 +1245,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672981.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672981.json",
                             "resource": {
@@ -1216,7 +1260,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673011.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/44",
                     "label": "Image for node 1673011",
                     "width": 3264,
                     "height": 2448,
@@ -1230,6 +1274,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673011.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673011.json",
                             "resource": {
@@ -1244,7 +1289,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673021.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/45",
                     "label": "Image for node 1673021",
                     "width": 1616,
                     "height": 1037,
@@ -1258,6 +1303,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673021.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673021.json",
                             "resource": {
@@ -1272,7 +1318,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673046.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/46",
                     "label": "Image for node 1673046",
                     "width": 3264,
                     "height": 2448,
@@ -1286,6 +1332,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673046.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673046.json",
                             "resource": {
@@ -1300,7 +1347,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673056.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/47",
                     "label": "Image for node 1673056",
                     "width": 1599,
                     "height": 1015,
@@ -1314,6 +1361,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673056.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673056.json",
                             "resource": {
@@ -1328,7 +1376,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673071.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/48",
                     "label": "Image for node 1673071",
                     "width": 1627,
                     "height": 1043,
@@ -1342,6 +1390,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673071.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673071.json",
                             "resource": {
@@ -1356,7 +1405,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673081.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/49",
                     "label": "Image for node 1673081",
                     "width": 3264,
                     "height": 2448,
@@ -1370,6 +1419,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673081.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673081.json",
                             "resource": {
@@ -1384,7 +1434,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673116.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/50",
                     "label": "Image for node 1673116",
                     "width": 3264,
                     "height": 2448,
@@ -1398,6 +1448,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673116.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673116.json",
                             "resource": {
@@ -1412,7 +1463,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673141.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/51",
                     "label": "Image for node 1673141",
                     "width": 3264,
                     "height": 2448,
@@ -1426,6 +1477,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673141.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673141.json",
                             "resource": {
@@ -1440,7 +1492,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673156.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/52",
                     "label": "Image for node 1673156",
                     "width": 3264,
                     "height": 2448,
@@ -1454,6 +1506,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673156.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673156.json",
                             "resource": {
@@ -1468,7 +1521,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673166.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/53",
                     "label": "Image for node 1673166",
                     "width": 3264,
                     "height": 2448,
@@ -1482,6 +1535,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673166.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673166.json",
                             "resource": {
@@ -1496,7 +1550,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673196.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/54",
                     "label": "Image for node 1673196",
                     "width": 3264,
                     "height": 2448,
@@ -1510,6 +1564,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673196.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673196.json",
                             "resource": {
@@ -1524,7 +1579,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673206.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/55",
                     "label": "Image for node 1673206",
                     "width": 1650,
                     "height": 1037,
@@ -1538,6 +1593,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673206.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673206.json",
                             "resource": {
@@ -1552,7 +1608,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673226.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/56",
                     "label": "Image for node 1673226",
                     "width": 1645,
                     "height": 1037,
@@ -1566,6 +1622,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673226.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673226.json",
                             "resource": {
@@ -1580,7 +1637,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673236.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/57",
                     "label": "Image for node 1673236",
                     "width": 3264,
                     "height": 2448,
@@ -1594,6 +1651,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673236.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673236.json",
                             "resource": {
@@ -1608,7 +1666,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673821.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/58",
                     "label": "Image for node 1673821",
                     "width": 3264,
                     "height": 2448,
@@ -1622,6 +1680,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673821.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673821.json",
                             "resource": {
@@ -1636,7 +1695,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673831.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/59",
                     "label": "Image for node 1673831",
                     "width": 3264,
                     "height": 2448,
@@ -1650,6 +1709,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673831.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673831.json",
                             "resource": {
@@ -1664,7 +1724,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673841.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/60",
                     "label": "Image for node 1673841",
                     "width": 3264,
                     "height": 2448,
@@ -1678,6 +1738,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673841.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673841.json",
                             "resource": {
@@ -1692,7 +1753,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673851.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/61",
                     "label": "Image for node 1673851",
                     "width": 3264,
                     "height": 2448,
@@ -1706,6 +1767,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673851.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673851.json",
                             "resource": {
@@ -1720,7 +1782,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673861.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/62",
                     "label": "Image for node 1673861",
                     "width": 3264,
                     "height": 2448,
@@ -1734,6 +1796,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673861.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673861.json",
                             "resource": {
@@ -1748,7 +1811,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673871.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/63",
                     "label": "Image for node 1673871",
                     "width": 3264,
                     "height": 2448,
@@ -1762,6 +1825,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673871.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673871.json",
                             "resource": {
@@ -1776,7 +1840,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673881.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/64",
                     "label": "Image for node 1673881",
                     "width": 3264,
                     "height": 2448,
@@ -1790,6 +1854,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673881.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673881.json",
                             "resource": {
@@ -1804,7 +1869,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673891.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/65",
                     "label": "Image for node 1673891",
                     "width": 1650,
                     "height": 1078,
@@ -1818,6 +1883,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673891.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673891.json",
                             "resource": {
@@ -1832,7 +1898,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673901.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/66",
                     "label": "Image for node 1673901",
                     "width": 1645,
                     "height": 1032,
@@ -1846,6 +1912,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673901.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673901.json",
                             "resource": {
@@ -1860,7 +1927,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673911.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/67",
                     "label": "Image for node 1673911",
                     "width": 1656,
                     "height": 1043,
@@ -1874,6 +1941,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673911.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673911.json",
                             "resource": {
@@ -1888,7 +1956,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673921.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/68",
                     "label": "Image for node 1673921",
                     "width": 1668,
                     "height": 1037,
@@ -1902,6 +1970,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673921.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673921.json",
                             "resource": {
@@ -1916,7 +1985,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673931.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/69",
                     "label": "Image for node 1673931",
                     "width": 1582,
                     "height": 1003,
@@ -1930,6 +1999,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673931.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673931.json",
                             "resource": {
@@ -1944,7 +2014,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673941.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/70",
                     "label": "Image for node 1673941",
                     "width": 1645,
                     "height": 1032,
@@ -1958,6 +2028,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673941.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673941.json",
                             "resource": {
@@ -1972,7 +2043,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673951.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/71",
                     "label": "Image for node 1673951",
                     "width": 1656,
                     "height": 1043,
@@ -1986,6 +2057,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673951.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673951.json",
                             "resource": {
@@ -2000,7 +2072,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673976.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/72",
                     "label": "Image for node 1673976",
                     "width": 3264,
                     "height": 2448,
@@ -2014,6 +2086,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673976.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673976.json",
                             "resource": {
@@ -2028,7 +2101,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673986.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/73",
                     "label": "Image for node 1673986",
                     "width": 3264,
                     "height": 2448,
@@ -2042,6 +2115,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673986.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673986.json",
                             "resource": {
@@ -2056,7 +2130,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673996.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/74",
                     "label": "Image for node 1673996",
                     "width": 3264,
                     "height": 2448,
@@ -2070,6 +2144,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673996.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1673996.json",
                             "resource": {
@@ -2084,7 +2159,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674136.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/75",
                     "label": "Image for node 1674136",
                     "width": 1630,
                     "height": 1030,
@@ -2098,6 +2173,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674136.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674136.json",
                             "resource": {
@@ -2112,7 +2188,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674146.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/76",
                     "label": "Image for node 1674146",
                     "width": 1622,
                     "height": 1020,
@@ -2126,6 +2202,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674146.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674146.json",
                             "resource": {
@@ -2140,7 +2217,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674156.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/77",
                     "label": "Image for node 1674156",
                     "width": 1662,
                     "height": 1043,
@@ -2154,6 +2231,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674156.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674156.json",
                             "resource": {
@@ -2168,7 +2246,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674166.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/78",
                     "label": "Image for node 1674166",
                     "width": 1616,
                     "height": 1026,
@@ -2182,6 +2260,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674166.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674166.json",
                             "resource": {
@@ -2196,7 +2275,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674176.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/79",
                     "label": "Image for node 1674176",
                     "width": 1627,
                     "height": 1015,
@@ -2210,6 +2289,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674176.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674176.json",
                             "resource": {
@@ -2224,7 +2304,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674186.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/80",
                     "label": "Image for node 1674186",
                     "width": 3264,
                     "height": 2448,
@@ -2238,6 +2318,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674186.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674186.json",
                             "resource": {
@@ -2252,7 +2333,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674196.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/81",
                     "label": "Image for node 1674196",
                     "width": 3264,
                     "height": 2448,
@@ -2266,6 +2347,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674196.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674196.json",
                             "resource": {
@@ -2280,7 +2362,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674206.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/82",
                     "label": "Image for node 1674206",
                     "width": 3264,
                     "height": 2448,
@@ -2294,6 +2376,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674206.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674206.json",
                             "resource": {
@@ -2308,7 +2391,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674246.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/83",
                     "label": "Image for node 1674246",
                     "width": 1639,
                     "height": 1037,
@@ -2322,6 +2405,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674246.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674246.json",
                             "resource": {
@@ -2336,7 +2420,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674256.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/84",
                     "label": "Image for node 1674256",
                     "width": 1622,
                     "height": 1043,
@@ -2350,6 +2434,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674256.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674256.json",
                             "resource": {
@@ -2364,7 +2449,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674266.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/85",
                     "label": "Image for node 1674266",
                     "width": 1650,
                     "height": 1037,
@@ -2378,6 +2463,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674266.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674266.json",
                             "resource": {
@@ -2392,7 +2478,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674276.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/86",
                     "label": "Image for node 1674276",
                     "width": 1645,
                     "height": 1037,
@@ -2406,6 +2492,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674276.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674276.json",
                             "resource": {
@@ -2420,7 +2507,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674306.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/87",
                     "label": "Image for node 1674306",
                     "width": 1060,
                     "height": 1645,
@@ -2434,6 +2521,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674306.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674306.json",
                             "resource": {
@@ -2448,7 +2536,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674316.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/88",
                     "label": "Image for node 1674316",
                     "width": 1662,
                     "height": 1049,
@@ -2462,6 +2550,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1674316.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1674316.json",
                             "resource": {
@@ -2476,7 +2565,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1766771.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/89",
                     "label": "Image for node 1766771",
                     "width": 1664,
                     "height": 1040,
@@ -2490,6 +2579,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1766771.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1766771.json",
                             "resource": {
@@ -2504,7 +2594,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1766666.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/90",
                     "label": "Image for node 1766666",
                     "width": 1616,
                     "height": 1024,
@@ -2518,6 +2608,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1766666.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1766666.json",
                             "resource": {
@@ -2532,7 +2623,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672996.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/52581.json\/sequence\/0\/canvas\/91",
                     "label": "Image for node 1672996",
                     "width": 3264,
                     "height": 2448,
@@ -2546,6 +2637,7 @@
                     "images": [
                         {
                             "@type": "oa:Annotation",
+                            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1672996.json",
                             "motivation": "sc:painting",
                             "on": "https:\/\/404mike.github.io\/testiiif\/52581\/canvas\/1672996.json",
                             "resource": {
