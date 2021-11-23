@@ -35,15 +35,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/John%20Street_1.jpg",
                                 "width": 1681,
                                 "height": 1102,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671781.json",
-                                "width": 1681,
-                                "height": 1102,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671781.json",
+                                    "width": 1681,
+                                    "height": 1102,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -72,15 +72,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Queen%20St.jpg",
                                 "width": 1662,
                                 "height": 1054,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671811.json",
-                                "width": 1662,
-                                "height": 1054,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671811.json",
+                                    "width": 1662,
+                                    "height": 1054,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -109,15 +109,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/High%20St.jpg",
                                 "width": 1627,
                                 "height": 1060,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671821.json",
-                                "width": 1627,
-                                "height": 1060,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671821.json",
+                                    "width": 1627,
+                                    "height": 1060,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -146,15 +146,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Miniature%20Railway.jpg",
                                 "width": 1567,
                                 "height": 923,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671841.json",
-                                "width": 1567,
-                                "height": 923,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671841.json",
+                                    "width": 1567,
+                                    "height": 923,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -183,15 +183,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Queen%27s%20Palace%20Ballroom.jpg",
                                 "width": 1692,
                                 "height": 1120,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671851.json",
-                                "width": 1692,
-                                "height": 1120,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671851.json",
+                                    "width": 1692,
+                                    "height": 1120,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -220,15 +220,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Royal%20Alex.jpg",
                                 "width": 1656,
                                 "height": 1066,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671956.json",
-                                "width": 1656,
-                                "height": 1066,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671956.json",
+                                    "width": 1656,
+                                    "height": 1066,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -257,15 +257,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/local%20history%20Rhyl%20swimming%20Baths.jpg",
                                 "width": 1633,
                                 "height": 1071,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671961.json",
-                                "width": 1633,
-                                "height": 1071,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671961.json",
+                                    "width": 1633,
+                                    "height": 1071,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -294,15 +294,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/local%20history%20Crowds%20outside%20The%20Queens.jpg",
                                 "width": 1639,
                                 "height": 1003,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672001.json",
-                                "width": 1639,
-                                "height": 1003,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672001.json",
+                                    "width": 1639,
+                                    "height": 1003,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -331,15 +331,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/west%20parade%20no%202.jpg",
                                 "width": 1612,
                                 "height": 1044,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672036.json",
-                                "width": 1612,
-                                "height": 1044,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672036.json",
+                                    "width": 1612,
+                                    "height": 1044,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -368,15 +368,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/12.jpg",
                                 "width": 1626,
                                 "height": 1023,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672061.json",
-                                "width": 1626,
-                                "height": 1023,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672061.json",
+                                    "width": 1626,
+                                    "height": 1023,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -405,15 +405,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/16.jpg",
                                 "width": 1626,
                                 "height": 1084,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672076.json",
-                                "width": 1626,
-                                "height": 1084,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672076.json",
+                                    "width": 1626,
+                                    "height": 1084,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -442,15 +442,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Queens%20Palace%20fire.jpg",
                                 "width": 1716,
                                 "height": 1072,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672176.json",
-                                "width": 1716,
-                                "height": 1072,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672176.json",
+                                    "width": 1716,
+                                    "height": 1072,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -479,15 +479,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Queen%27s%20Palace%20wreckage.jpg",
                                 "width": 1621,
                                 "height": 1042,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672196.json",
-                                "width": 1621,
-                                "height": 1042,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672196.json",
+                                    "width": 1621,
+                                    "height": 1042,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -516,15 +516,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/1505CD47-3AB2-4F82-91A0-15D5293B214E.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672216.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672216.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -553,15 +553,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Sandhills.jpg",
                                 "width": 1616,
                                 "height": 1008,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672231.json",
-                                "width": 1616,
-                                "height": 1008,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672231.json",
+                                    "width": 1616,
+                                    "height": 1008,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -590,15 +590,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/09050E11-F96A-4D09-A143-9E22EE4B33BC.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672241.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672241.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -627,15 +627,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Gentlemen%27s%20Bathing%20Baths.jpg",
                                 "width": 1632,
                                 "height": 1008,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672256.json",
-                                "width": 1632,
-                                "height": 1008,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672256.json",
+                                    "width": 1632,
+                                    "height": 1008,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -664,15 +664,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Marine%20Drive.jpg",
                                 "width": 1552,
                                 "height": 960,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672301.json",
-                                "width": 1552,
-                                "height": 960,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672301.json",
+                                    "width": 1552,
+                                    "height": 960,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -701,15 +701,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/West%20Promenade%20from%20sea.jpg",
                                 "width": 1616,
                                 "height": 1008,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672316.json",
-                                "width": 1616,
-                                "height": 1008,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672316.json",
+                                    "width": 1616,
+                                    "height": 1008,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -738,15 +738,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Rhyl%20High%20Street.jpg",
                                 "width": 1597,
                                 "height": 1018,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672346.json",
-                                "width": 1597,
-                                "height": 1018,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672346.json",
+                                    "width": 1597,
+                                    "height": 1018,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -775,15 +775,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Ladies%27%20Bathing%20Beach.jpg",
                                 "width": 1638,
                                 "height": 1042,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672356.json",
-                                "width": 1638,
-                                "height": 1042,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672356.json",
+                                    "width": 1638,
+                                    "height": 1042,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -812,15 +812,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Promenade%20and%20Palace.jpg",
                                 "width": 1696,
                                 "height": 1015,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672366.json",
-                                "width": 1696,
-                                "height": 1015,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672366.json",
+                                    "width": 1696,
+                                    "height": 1015,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -849,15 +849,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Rhyl%20Promenade%20and%20Pavilion.jpg",
                                 "width": 1662,
                                 "height": 1026,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672381.json",
-                                "width": 1662,
-                                "height": 1026,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672381.json",
+                                    "width": 1662,
+                                    "height": 1026,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -886,15 +886,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/East%20Promenade.jpg",
                                 "width": 1635,
                                 "height": 1030,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672396.json",
-                                "width": 1635,
-                                "height": 1030,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672396.json",
+                                    "width": 1635,
+                                    "height": 1030,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -923,15 +923,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Queen%27s%20Palace%20Roof%20Gardens.jpg",
                                 "width": 1650,
                                 "height": 1049,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672411.json",
-                                "width": 1650,
-                                "height": 1049,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672411.json",
+                                    "width": 1650,
+                                    "height": 1049,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -960,15 +960,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Bodfor%20Street.jpg",
                                 "width": 1656,
                                 "height": 1060,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672426.json",
-                                "width": 1656,
-                                "height": 1060,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672426.json",
+                                    "width": 1656,
+                                    "height": 1060,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -997,15 +997,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Pavilion%20Gardens%20Children%27s%20Carnival.jpg",
                                 "width": 1610,
                                 "height": 1005,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672571.json",
-                                "width": 1610,
-                                "height": 1005,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672571.json",
+                                    "width": 1610,
+                                    "height": 1005,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1034,15 +1034,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Grand%20Pavilion.jpg",
                                 "width": 1446,
                                 "height": 833,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672586.json",
-                                "width": 1446,
-                                "height": 833,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672586.json",
+                                    "width": 1446,
+                                    "height": 833,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1071,15 +1071,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Pavilion%20and%20Promenade.jpg",
                                 "width": 1600,
                                 "height": 1008,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672606.json",
-                                "width": 1600,
-                                "height": 1008,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672606.json",
+                                    "width": 1600,
+                                    "height": 1008,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1108,15 +1108,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Rhyl%20High%20Street%202.jpg",
                                 "width": 1584,
                                 "height": 992,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672621.json",
-                                "width": 1584,
-                                "height": 992,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672621.json",
+                                    "width": 1584,
+                                    "height": 992,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1145,15 +1145,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/1860%20pic.jpg",
                                 "width": 1600,
                                 "height": 1024,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672636.json",
-                                "width": 1600,
-                                "height": 1024,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672636.json",
+                                    "width": 1600,
+                                    "height": 1024,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1182,15 +1182,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Promenade%20looking%20West.jpg",
                                 "width": 1616,
                                 "height": 1040,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672651.json",
-                                "width": 1616,
-                                "height": 1040,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672651.json",
+                                    "width": 1616,
+                                    "height": 1040,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1219,15 +1219,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Promenade%20from%20Palace.jpg",
                                 "width": 1629,
                                 "height": 1040,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672661.json",
-                                "width": 1629,
-                                "height": 1040,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672661.json",
+                                    "width": 1629,
+                                    "height": 1040,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1256,15 +1256,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Model%20yacht%20pond.jpg",
                                 "width": 1648,
                                 "height": 1024,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672676.json",
-                                "width": 1648,
-                                "height": 1024,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672676.json",
+                                    "width": 1648,
+                                    "height": 1024,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1293,15 +1293,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/East%20Beach.jpg",
                                 "width": 1613,
                                 "height": 1006,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672736.json",
-                                "width": 1613,
-                                "height": 1006,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672736.json",
+                                    "width": 1613,
+                                    "height": 1006,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1330,15 +1330,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Water%20chute.jpg",
                                 "width": 1616,
                                 "height": 1008,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672751.json",
-                                "width": 1616,
-                                "height": 1008,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672751.json",
+                                    "width": 1616,
+                                    "height": 1008,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1367,15 +1367,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Haven%20and%20Palace%20Hotels.jpg",
                                 "width": 1599,
                                 "height": 1008,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672766.json",
-                                "width": 1599,
-                                "height": 1008,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672766.json",
+                                    "width": 1599,
+                                    "height": 1008,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1404,15 +1404,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Bath%20St.jpg",
                                 "width": 1616,
                                 "height": 1055,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672896.json",
-                                "width": 1616,
-                                "height": 1055,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672896.json",
+                                    "width": 1616,
+                                    "height": 1055,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1441,15 +1441,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Butterton%20Rd.jpg",
                                 "width": 1587,
                                 "height": 986,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672911.json",
-                                "width": 1587,
-                                "height": 986,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672911.json",
+                                    "width": 1587,
+                                    "height": 986,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1478,15 +1478,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/West%20Beach%20from%20Pier.jpg",
                                 "width": 1627,
                                 "height": 1049,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672926.json",
-                                "width": 1627,
-                                "height": 1049,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672926.json",
+                                    "width": 1627,
+                                    "height": 1049,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1515,15 +1515,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/War%20Memorial%20and%20Promenade.jpg",
                                 "width": 1645,
                                 "height": 1066,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672951.json",
-                                "width": 1645,
-                                "height": 1066,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672951.json",
+                                    "width": 1645,
+                                    "height": 1066,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1552,15 +1552,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Henkel%27s%20Fancy%20Goods.jpg",
                                 "width": 1622,
                                 "height": 1043,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672966.json",
-                                "width": 1622,
-                                "height": 1043,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672966.json",
+                                    "width": 1622,
+                                    "height": 1043,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1589,15 +1589,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/High%20Sea.jpg",
                                 "width": 1639,
                                 "height": 1066,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672981.json",
-                                "width": 1639,
-                                "height": 1066,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672981.json",
+                                    "width": 1639,
+                                    "height": 1066,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1626,15 +1626,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/CC7E1845-7950-4232-84F1-C8CF72E0919E.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673011.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673011.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1663,15 +1663,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/East%20Beach%202.jpg",
                                 "width": 1616,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673021.json",
-                                "width": 1616,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673021.json",
+                                    "width": 1616,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1700,15 +1700,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/91A62BE7-DFB9-4190-AD18-AC75331EF302.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673046.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673046.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1737,15 +1737,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Pavilion%20and%20bandstand.jpg",
                                 "width": 1599,
                                 "height": 1015,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673056.json",
-                                "width": 1599,
-                                "height": 1015,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673056.json",
+                                    "width": 1599,
+                                    "height": 1015,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1774,15 +1774,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Prom%20and%20Queen%27s%20Gardens.jpg",
                                 "width": 1627,
                                 "height": 1043,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673071.json",
-                                "width": 1627,
-                                "height": 1043,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673071.json",
+                                    "width": 1627,
+                                    "height": 1043,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1811,15 +1811,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/F7399830-9268-4F85-9F98-9659B70D955D.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673081.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673081.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1848,15 +1848,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/C1DB8F0B-BBE5-4524-991C-DFF94D9F384A.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673116.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673116.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1885,15 +1885,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/CDAD6F1F-F72B-4903-BE38-9F556F37F08B.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673141.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673141.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1922,15 +1922,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/29AF3AD7-2753-4C46-8733-FF5EBBEC3248.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673156.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673156.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1959,15 +1959,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/60AC1D4D-F80B-47C2-9F58-BFEE8013CE72.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673166.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673166.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -1996,15 +1996,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/BBD0B9B3-E47C-4146-8DFD-B83AEB163693.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673196.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673196.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2033,15 +2033,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Pleasure%20grounds.jpg",
                                 "width": 1650,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673206.json",
-                                "width": 1650,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673206.json",
+                                    "width": 1650,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2070,15 +2070,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Promenade%2C%20War%20Memorial%2C%20Pavilion.jpg",
                                 "width": 1645,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673226.json",
-                                "width": 1645,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673226.json",
+                                    "width": 1645,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2107,15 +2107,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/14715F8B-BF72-4167-90CD-D6BBDF39FC6A.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673236.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673236.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2144,15 +2144,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/F976BFDF-49BB-4246-A86C-426ADE51E356.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673821.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673821.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2181,15 +2181,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/9C7A94EC-C0E2-46BA-8AA9-394156058C53.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673831.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673831.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2218,15 +2218,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/AA6D4E78-DF07-40E4-A623-A7ACD296DC2F.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673841.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673841.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2255,15 +2255,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/33E29F12-8666-4F91-A207-4077D1F17E11.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673851.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673851.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2292,15 +2292,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/32353BC1-569D-4EE9-A318-6EE4280BDC5D.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673861.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673861.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2329,15 +2329,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/BF299175-5748-4484-9583-05F829F83260.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673871.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673871.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2366,15 +2366,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/2608D041-0C53-4F5F-BEEB-4093C4759760.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673881.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673881.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2403,15 +2403,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/West%20Parade.jpg",
                                 "width": 1650,
                                 "height": 1078,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673891.json",
-                                "width": 1650,
-                                "height": 1078,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673891.json",
+                                    "width": 1650,
+                                    "height": 1078,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2440,15 +2440,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Rough%20sea.jpg",
                                 "width": 1645,
                                 "height": 1032,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673901.json",
-                                "width": 1645,
-                                "height": 1032,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673901.json",
+                                    "width": 1645,
+                                    "height": 1032,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2477,15 +2477,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Jovial%20Jesters.jpg",
                                 "width": 1656,
                                 "height": 1043,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673911.json",
-                                "width": 1656,
-                                "height": 1043,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673911.json",
+                                    "width": 1656,
+                                    "height": 1043,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2514,15 +2514,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Punch%20and%20Judy.jpg",
                                 "width": 1668,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673921.json",
-                                "width": 1668,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673921.json",
+                                    "width": 1668,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2551,15 +2551,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Tynewydd%20Rd.jpg",
                                 "width": 1582,
                                 "height": 1003,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673931.json",
-                                "width": 1582,
-                                "height": 1003,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673931.json",
+                                    "width": 1582,
+                                    "height": 1003,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2588,15 +2588,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Railway%20Station.jpg",
                                 "width": 1645,
                                 "height": 1032,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673941.json",
-                                "width": 1645,
-                                "height": 1032,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673941.json",
+                                    "width": 1645,
+                                    "height": 1032,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2625,15 +2625,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Queen%27s%20Palace.jpg",
                                 "width": 1656,
                                 "height": 1043,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673951.json",
-                                "width": 1656,
-                                "height": 1043,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673951.json",
+                                    "width": 1656,
+                                    "height": 1043,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2662,15 +2662,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/D97731BF-F5B6-49A6-9406-EF72FD60D9AB.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673976.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673976.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2699,15 +2699,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/C1C8AEE2-7F60-4C58-A789-4E4DF6017401.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673986.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673986.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2736,15 +2736,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/AC0D36D3-EE54-4E89-8E27-FC9E724DBBB4.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673996.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673996.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2773,15 +2773,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Palace%20Hotel.jpg",
                                 "width": 1630,
                                 "height": 1030,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674136.json",
-                                "width": 1630,
-                                "height": 1030,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674136.json",
+                                    "width": 1630,
+                                    "height": 1030,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2810,15 +2810,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/High%20Street.jpg",
                                 "width": 1622,
                                 "height": 1020,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674146.json",
-                                "width": 1622,
-                                "height": 1020,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674146.json",
+                                    "width": 1622,
+                                    "height": 1020,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2847,15 +2847,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Westminster%20Hotel.jpg",
                                 "width": 1662,
                                 "height": 1043,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674156.json",
-                                "width": 1662,
-                                "height": 1043,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674156.json",
+                                    "width": 1662,
+                                    "height": 1043,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2884,15 +2884,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Wellington%20Road.jpg",
                                 "width": 1616,
                                 "height": 1026,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674166.json",
-                                "width": 1616,
-                                "height": 1026,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674166.json",
+                                    "width": 1616,
+                                    "height": 1026,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2921,15 +2921,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Sandringham%20Hotel.jpg",
                                 "width": 1627,
                                 "height": 1015,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674176.json",
-                                "width": 1627,
-                                "height": 1015,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674176.json",
+                                    "width": 1627,
+                                    "height": 1015,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2958,15 +2958,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/2C59D5AC-3B60-402F-9B34-8379F59D46AC.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674186.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674186.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -2995,15 +2995,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/2AC1ABBB-3455-4B74-AB99-46A02060548F.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674196.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674196.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3032,15 +3032,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/3C7C4625-AAEE-462C-B209-B2EE534D6DA3.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674206.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674206.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3069,15 +3069,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Rhyl%20High%20Street%203.jpg",
                                 "width": 1639,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674246.json",
-                                "width": 1639,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674246.json",
+                                    "width": 1639,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3106,15 +3106,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Abbey%20Street.jpg",
                                 "width": 1622,
                                 "height": 1043,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674256.json",
-                                "width": 1622,
-                                "height": 1043,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674256.json",
+                                    "width": 1622,
+                                    "height": 1043,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3143,15 +3143,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Pier%20Hotel.jpg",
                                 "width": 1650,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674266.json",
-                                "width": 1650,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674266.json",
+                                    "width": 1650,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3180,15 +3180,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Westminster%20Hotel%202.jpg",
                                 "width": 1645,
                                 "height": 1037,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674276.json",
-                                "width": 1645,
-                                "height": 1037,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674276.json",
+                                    "width": 1645,
+                                    "height": 1037,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3217,15 +3217,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Mostyn%20Hotel.jpg",
                                 "width": 1060,
                                 "height": 1645,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674306.json",
-                                "width": 1060,
-                                "height": 1645,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674306.json",
+                                    "width": 1060,
+                                    "height": 1645,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3254,15 +3254,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Wellington%20Rd%20and%20Town%20Hall.jpg",
                                 "width": 1662,
                                 "height": 1049,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674316.json",
-                                "width": 1662,
-                                "height": 1049,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674316.json",
+                                    "width": 1662,
+                                    "height": 1049,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3291,15 +3291,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/July\/46723E9F-3527-4CCF-A44D-28EB8581D276.jpeg",
                                 "width": 1664,
                                 "height": 1040,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1766771.json",
-                                "width": 1664,
-                                "height": 1040,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1766771.json",
+                                    "width": 1664,
+                                    "height": 1040,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3328,15 +3328,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/July\/99D78B0C-4FB5-4A9E-9F09-1870D9BFDA27.jpeg",
                                 "width": 1616,
                                 "height": 1024,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1766666.json",
-                                "width": 1616,
-                                "height": 1024,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1766666.json",
+                                    "width": 1616,
+                                    "height": 1024,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
@@ -3365,15 +3365,15 @@
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/FD2BA3AE-4C4E-4D69-B9AD-3C45A2CCFA4F.jpeg",
                                 "width": 3264,
                                 "height": 2448,
-                                "format": "image\/jpeg"
-                            },
-                            "service": {
-                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
-                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672996.json",
-                                "width": 3264,
-                                "height": 2448,
-                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
-                                "protocol": "http:\/\/iiif.io\/api\/image"
+                                "format": "image\/jpeg",
+                                "service": {
+                                    "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672996.json",
+                                    "width": 3264,
+                                    "height": 2448,
+                                    "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                    "protocol": "http:\/\/iiif.io\/api\/image"
+                                }
                             }
                         }
                     ]
