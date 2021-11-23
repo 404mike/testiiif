@@ -1,0 +1,23 @@
+{
+    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1766666.json",
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@type": "sc:Canvas",
+    "label": "Image for node 1766666",
+    "width": 1616,
+    "height": 1024,
+    "images": [
+        {
+            "@type": "oa:Annotation",
+            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1766666.json",
+            "motivation": "sc:painting",
+            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1766666.json",
+            "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/July\/99D78B0C-4FB5-4A9E-9F09-1870D9BFDA27.jpeg",
+                "width": 1616,
+                "height": 1024,
+                "format": "image\/jpeg"
+            }
+        }
+    ]
+}

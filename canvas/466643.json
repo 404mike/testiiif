@@ -1,0 +1,23 @@
+{
+    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/466643.json",
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@type": "sc:Canvas",
+    "label": "Image for node 466643",
+    "width": 1250,
+    "height": 792,
+    "images": [
+        {
+            "@type": "oa:Annotation",
+            "@id": "https:\/\/404mike.github.io\/testiiif\/6827\/annotation\/466643.json",
+            "motivation": "sc:painting",
+            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/466643.json",
+            "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2015\/July\/paxton_1_web.jpg",
+                "width": 1250,
+                "height": 792,
+                "format": "image\/jpeg"
+            }
+        }
+    ]
+}

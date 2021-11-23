@@ -1,0 +1,23 @@
+{
+    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1673056.json",
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@type": "sc:Canvas",
+    "label": "Image for node 1673056",
+    "width": 1599,
+    "height": 1015,
+    "images": [
+        {
+            "@type": "oa:Annotation",
+            "@id": "https:\/\/404mike.github.io\/testiiif\/52581\/annotation\/1673056.json",
+            "motivation": "sc:painting",
+            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1673056.json",
+            "resource": {
+                "@type": "dctypes:Image",
+                "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2021\/March\/Pavilion%20and%20bandstand.jpg",
+                "width": 1599,
+                "height": 1015,
+                "format": "image\/jpeg"
+            }
+        }
+    ]
+}

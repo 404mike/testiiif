@@ -13,7 +13,7 @@
             "canvases": [
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606325.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606325.json",
                     "label": "Image for node 606325",
                     "width": 3264,
                     "height": 2448,
@@ -29,7 +29,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606325.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606325.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606325.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1015.JPG",
@@ -42,7 +42,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606353.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606353.json",
                     "label": "Image for node 606353",
                     "width": 2448,
                     "height": 3264,
@@ -58,7 +58,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606353.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606353.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606353.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0718.jpg",
@@ -71,7 +71,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1126951.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1126951.json",
                     "label": "Image for node 1126951",
                     "width": 4048,
                     "height": 3036,
@@ -87,7 +87,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1126951.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1126951.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1126951.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180330_143237.jpg",
@@ -100,7 +100,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1126971.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1126971.json",
                     "label": "Image for node 1126971",
                     "width": 4048,
                     "height": 3036,
@@ -116,7 +116,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1126971.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1126971.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1126971.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180330_143429.jpg",
@@ -129,7 +129,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127006.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127006.json",
                     "label": "Image for node 1127006",
                     "width": 4048,
                     "height": 3036,
@@ -145,7 +145,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127006.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127006.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127006.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180422_143711.jpg",
@@ -158,7 +158,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127026.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127026.json",
                     "label": "Image for node 1127026",
                     "width": 3036,
                     "height": 4048,
@@ -174,7 +174,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127026.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127026.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127026.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180519_105459.jpg",
@@ -187,7 +187,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127051.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127051.json",
                     "label": "Image for node 1127051",
                     "width": 4048,
                     "height": 3036,
@@ -203,7 +203,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127051.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127051.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127051.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20170823_210539.jpg",
@@ -216,7 +216,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127056.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127056.json",
                     "label": "Image for node 1127056",
                     "width": 3008,
                     "height": 2000,
@@ -232,7 +232,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127056.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127056.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127056.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/DSC_0123.jpg",
@@ -245,7 +245,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127061.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127061.json",
                     "label": "Image for node 1127061",
                     "width": 3905,
                     "height": 2929,
@@ -261,7 +261,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127061.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127061.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127061.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180722_211342.jpg",
@@ -274,7 +274,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127066.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127066.json",
                     "label": "Image for node 1127066",
                     "width": 4048,
                     "height": 3036,
@@ -290,7 +290,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127066.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127066.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127066.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20190526_152322.jpg",
@@ -303,7 +303,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127121.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127121.json",
                     "label": "Image for node 1127121",
                     "width": 4048,
                     "height": 3036,
@@ -319,7 +319,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127121.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127121.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127121.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20190420_115726.jpg",
@@ -332,7 +332,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127211.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127211.json",
                     "label": "Image for node 1127211",
                     "width": 4048,
                     "height": 3036,
@@ -348,7 +348,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1127211.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1127211.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1127211.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/May\/IMG_20180707_092041.jpg",
@@ -361,7 +361,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1142981.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1142981.json",
                     "label": "Image for node 1142981",
                     "width": 1043,
                     "height": 1690,
@@ -377,7 +377,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1142981.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1142981.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1142981.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/June\/llun038.jpg",
@@ -390,7 +390,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1186041.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1186041.json",
                     "label": "Image for node 1186041",
                     "width": 1040,
                     "height": 1663,
@@ -406,7 +406,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1186041.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1186041.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1186041.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/August\/llun041a.jpg",
@@ -419,7 +419,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1197896.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1197896.json",
                     "label": "Image for node 1197896",
                     "width": 4282,
                     "height": 1671,
@@ -435,7 +435,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1197896.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1197896.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1197896.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2019\/September\/PANO_20190914_111215.vr.jpg",
@@ -448,7 +448,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1398731.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1398731.json",
                     "label": "Image for node 1398731",
                     "width": 5005,
                     "height": 3196,
@@ -464,7 +464,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1398731.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1398731.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1398731.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2020\/May\/family018.jpg",
@@ -477,7 +477,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1398736.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/1398736.json",
                     "label": "Image for node 1398736",
                     "width": 5001,
                     "height": 3199,
@@ -493,7 +493,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/1398736.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/1398736.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/1398736.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2020\/May\/family017.jpg",
@@ -506,7 +506,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606405.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606405.json",
                     "label": "Image for node 606405",
                     "width": 8533,
                     "height": 1875,
@@ -522,7 +522,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606405.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606405.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606405.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/FullSizeRender.jpg",
@@ -535,7 +535,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606408.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606408.json",
                     "label": "Image for node 606408",
                     "width": 8298,
                     "height": 1928,
@@ -551,7 +551,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606408.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606408.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606408.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/FullSizeRender_2.jpg",
@@ -564,7 +564,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606411.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606411.json",
                     "label": "Image for node 606411",
                     "width": 8833,
                     "height": 1804,
@@ -580,7 +580,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606411.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606411.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606411.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2028-PANO.jpg",
@@ -593,7 +593,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606414.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606414.json",
                     "label": "Image for node 606414",
                     "width": 8776,
                     "height": 1606,
@@ -609,7 +609,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606414.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606414.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606414.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2034-PANO.jpg",
@@ -622,7 +622,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606417.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606417.json",
                     "label": "Image for node 606417",
                     "width": 8758,
                     "height": 1827,
@@ -638,7 +638,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606417.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606417.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606417.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2039.jpg",
@@ -651,7 +651,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606420.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606420.json",
                     "label": "Image for node 606420",
                     "width": 6573,
                     "height": 1737,
@@ -667,7 +667,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606420.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606420.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606420.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_2043.jpg",
@@ -680,7 +680,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606423.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606423.json",
                     "label": "Image for node 606423",
                     "width": 5824,
                     "height": 1904,
@@ -696,7 +696,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606423.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606423.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606423.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1945-PANO.jpg",
@@ -709,7 +709,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606426.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606426.json",
                     "label": "Image for node 606426",
                     "width": 8578,
                     "height": 1865,
@@ -725,7 +725,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606426.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606426.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606426.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1948.jpg",
@@ -738,7 +738,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606429.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606429.json",
                     "label": "Image for node 606429",
                     "width": 8608,
                     "height": 1859,
@@ -754,7 +754,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606429.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606429.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606429.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1953.jpg",
@@ -767,7 +767,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606432.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606432.json",
                     "label": "Image for node 606432",
                     "width": 8608,
                     "height": 1859,
@@ -783,7 +783,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606432.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606432.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606432.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1963.jpg",
@@ -796,7 +796,7 @@
                 },
                 {
                     "@type": "sc:Canvas",
-                    "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606435.json",
+                    "@id": "https:\/\/404mike.github.io\/testiiif\/canvas\/606435.json",
                     "label": "Image for node 606435",
                     "width": 3264,
                     "height": 2448,
@@ -812,7 +812,7 @@
                             "@type": "oa:Annotation",
                             "@id": "https:\/\/404mike.github.io\/testiiif\/3576\/annotation\/606435.json",
                             "motivation": "sc:painting",
-                            "on": "https:\/\/404mike.github.io\/testiiif\/3576\/canvas\/606435.json",
+                            "on": "https:\/\/404mike.github.io\/testiiif\/canvas\/606435.json",
                             "resource": {
                                 "@type": "dctypes:Image",
                                 "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_1965.jpg",
