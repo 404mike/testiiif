@@ -1,0 +1,19 @@
+{
+    "@context": "http:\/\/iiif.io\/api\/presentation\/2\/context.json",
+    "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1127121.json",
+    "width": 4048,
+    "height": 3036,
+    "protocol": "http:\/\/iiif.io\/api\/image",
+    "tiles": [],
+    "profile": [
+        {
+            "http:\/\/iiif.io\/api\/image\/level0.json": {
+                "formats": [
+                    "jpg"
+                ],
+                "qualities": [],
+                "supports": []
+            }
+        }
+    ]
+}

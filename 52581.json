@@ -36,6 +36,14 @@
                                 "width": 1681,
                                 "height": 1102,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671781.json",
+                                "width": 1681,
+                                "height": 1102,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -65,6 +73,14 @@
                                 "width": 1662,
                                 "height": 1054,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671811.json",
+                                "width": 1662,
+                                "height": 1054,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -94,6 +110,14 @@
                                 "width": 1627,
                                 "height": 1060,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671821.json",
+                                "width": 1627,
+                                "height": 1060,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -123,6 +147,14 @@
                                 "width": 1567,
                                 "height": 923,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671841.json",
+                                "width": 1567,
+                                "height": 923,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -152,6 +184,14 @@
                                 "width": 1692,
                                 "height": 1120,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671851.json",
+                                "width": 1692,
+                                "height": 1120,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -181,6 +221,14 @@
                                 "width": 1656,
                                 "height": 1066,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671956.json",
+                                "width": 1656,
+                                "height": 1066,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -210,6 +258,14 @@
                                 "width": 1633,
                                 "height": 1071,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1671961.json",
+                                "width": 1633,
+                                "height": 1071,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -239,6 +295,14 @@
                                 "width": 1639,
                                 "height": 1003,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672001.json",
+                                "width": 1639,
+                                "height": 1003,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -268,6 +332,14 @@
                                 "width": 1612,
                                 "height": 1044,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672036.json",
+                                "width": 1612,
+                                "height": 1044,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -297,6 +369,14 @@
                                 "width": 1626,
                                 "height": 1023,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672061.json",
+                                "width": 1626,
+                                "height": 1023,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -326,6 +406,14 @@
                                 "width": 1626,
                                 "height": 1084,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672076.json",
+                                "width": 1626,
+                                "height": 1084,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -355,6 +443,14 @@
                                 "width": 1716,
                                 "height": 1072,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672176.json",
+                                "width": 1716,
+                                "height": 1072,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -384,6 +480,14 @@
                                 "width": 1621,
                                 "height": 1042,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672196.json",
+                                "width": 1621,
+                                "height": 1042,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -413,6 +517,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672216.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -442,6 +554,14 @@
                                 "width": 1616,
                                 "height": 1008,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672231.json",
+                                "width": 1616,
+                                "height": 1008,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -471,6 +591,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672241.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -500,6 +628,14 @@
                                 "width": 1632,
                                 "height": 1008,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672256.json",
+                                "width": 1632,
+                                "height": 1008,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -529,6 +665,14 @@
                                 "width": 1552,
                                 "height": 960,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672301.json",
+                                "width": 1552,
+                                "height": 960,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -558,6 +702,14 @@
                                 "width": 1616,
                                 "height": 1008,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672316.json",
+                                "width": 1616,
+                                "height": 1008,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -587,6 +739,14 @@
                                 "width": 1597,
                                 "height": 1018,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672346.json",
+                                "width": 1597,
+                                "height": 1018,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -616,6 +776,14 @@
                                 "width": 1638,
                                 "height": 1042,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672356.json",
+                                "width": 1638,
+                                "height": 1042,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -645,6 +813,14 @@
                                 "width": 1696,
                                 "height": 1015,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672366.json",
+                                "width": 1696,
+                                "height": 1015,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -674,6 +850,14 @@
                                 "width": 1662,
                                 "height": 1026,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672381.json",
+                                "width": 1662,
+                                "height": 1026,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -703,6 +887,14 @@
                                 "width": 1635,
                                 "height": 1030,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672396.json",
+                                "width": 1635,
+                                "height": 1030,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -732,6 +924,14 @@
                                 "width": 1650,
                                 "height": 1049,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672411.json",
+                                "width": 1650,
+                                "height": 1049,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -761,6 +961,14 @@
                                 "width": 1656,
                                 "height": 1060,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672426.json",
+                                "width": 1656,
+                                "height": 1060,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -790,6 +998,14 @@
                                 "width": 1610,
                                 "height": 1005,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672571.json",
+                                "width": 1610,
+                                "height": 1005,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -819,6 +1035,14 @@
                                 "width": 1446,
                                 "height": 833,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672586.json",
+                                "width": 1446,
+                                "height": 833,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -848,6 +1072,14 @@
                                 "width": 1600,
                                 "height": 1008,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672606.json",
+                                "width": 1600,
+                                "height": 1008,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -877,6 +1109,14 @@
                                 "width": 1584,
                                 "height": 992,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672621.json",
+                                "width": 1584,
+                                "height": 992,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -906,6 +1146,14 @@
                                 "width": 1600,
                                 "height": 1024,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672636.json",
+                                "width": 1600,
+                                "height": 1024,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -935,6 +1183,14 @@
                                 "width": 1616,
                                 "height": 1040,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672651.json",
+                                "width": 1616,
+                                "height": 1040,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -964,6 +1220,14 @@
                                 "width": 1629,
                                 "height": 1040,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672661.json",
+                                "width": 1629,
+                                "height": 1040,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -993,6 +1257,14 @@
                                 "width": 1648,
                                 "height": 1024,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672676.json",
+                                "width": 1648,
+                                "height": 1024,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1022,6 +1294,14 @@
                                 "width": 1613,
                                 "height": 1006,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672736.json",
+                                "width": 1613,
+                                "height": 1006,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1051,6 +1331,14 @@
                                 "width": 1616,
                                 "height": 1008,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672751.json",
+                                "width": 1616,
+                                "height": 1008,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1080,6 +1368,14 @@
                                 "width": 1599,
                                 "height": 1008,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672766.json",
+                                "width": 1599,
+                                "height": 1008,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1109,6 +1405,14 @@
                                 "width": 1616,
                                 "height": 1055,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672896.json",
+                                "width": 1616,
+                                "height": 1055,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1138,6 +1442,14 @@
                                 "width": 1587,
                                 "height": 986,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672911.json",
+                                "width": 1587,
+                                "height": 986,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1167,6 +1479,14 @@
                                 "width": 1627,
                                 "height": 1049,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672926.json",
+                                "width": 1627,
+                                "height": 1049,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1196,6 +1516,14 @@
                                 "width": 1645,
                                 "height": 1066,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672951.json",
+                                "width": 1645,
+                                "height": 1066,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1225,6 +1553,14 @@
                                 "width": 1622,
                                 "height": 1043,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672966.json",
+                                "width": 1622,
+                                "height": 1043,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1254,6 +1590,14 @@
                                 "width": 1639,
                                 "height": 1066,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672981.json",
+                                "width": 1639,
+                                "height": 1066,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1283,6 +1627,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673011.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1312,6 +1664,14 @@
                                 "width": 1616,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673021.json",
+                                "width": 1616,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1341,6 +1701,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673046.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1370,6 +1738,14 @@
                                 "width": 1599,
                                 "height": 1015,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673056.json",
+                                "width": 1599,
+                                "height": 1015,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1399,6 +1775,14 @@
                                 "width": 1627,
                                 "height": 1043,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673071.json",
+                                "width": 1627,
+                                "height": 1043,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1428,6 +1812,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673081.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1457,6 +1849,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673116.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1486,6 +1886,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673141.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1515,6 +1923,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673156.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1544,6 +1960,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673166.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1573,6 +1997,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673196.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1602,6 +2034,14 @@
                                 "width": 1650,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673206.json",
+                                "width": 1650,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1631,6 +2071,14 @@
                                 "width": 1645,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673226.json",
+                                "width": 1645,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1660,6 +2108,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673236.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1689,6 +2145,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673821.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1718,6 +2182,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673831.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1747,6 +2219,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673841.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1776,6 +2256,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673851.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1805,6 +2293,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673861.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1834,6 +2330,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673871.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1863,6 +2367,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673881.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1892,6 +2404,14 @@
                                 "width": 1650,
                                 "height": 1078,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673891.json",
+                                "width": 1650,
+                                "height": 1078,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1921,6 +2441,14 @@
                                 "width": 1645,
                                 "height": 1032,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673901.json",
+                                "width": 1645,
+                                "height": 1032,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1950,6 +2478,14 @@
                                 "width": 1656,
                                 "height": 1043,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673911.json",
+                                "width": 1656,
+                                "height": 1043,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -1979,6 +2515,14 @@
                                 "width": 1668,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673921.json",
+                                "width": 1668,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2008,6 +2552,14 @@
                                 "width": 1582,
                                 "height": 1003,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673931.json",
+                                "width": 1582,
+                                "height": 1003,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2037,6 +2589,14 @@
                                 "width": 1645,
                                 "height": 1032,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673941.json",
+                                "width": 1645,
+                                "height": 1032,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2066,6 +2626,14 @@
                                 "width": 1656,
                                 "height": 1043,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673951.json",
+                                "width": 1656,
+                                "height": 1043,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2095,6 +2663,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673976.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2124,6 +2700,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673986.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2153,6 +2737,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1673996.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2182,6 +2774,14 @@
                                 "width": 1630,
                                 "height": 1030,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674136.json",
+                                "width": 1630,
+                                "height": 1030,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2211,6 +2811,14 @@
                                 "width": 1622,
                                 "height": 1020,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674146.json",
+                                "width": 1622,
+                                "height": 1020,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2240,6 +2848,14 @@
                                 "width": 1662,
                                 "height": 1043,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674156.json",
+                                "width": 1662,
+                                "height": 1043,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2269,6 +2885,14 @@
                                 "width": 1616,
                                 "height": 1026,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674166.json",
+                                "width": 1616,
+                                "height": 1026,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2298,6 +2922,14 @@
                                 "width": 1627,
                                 "height": 1015,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674176.json",
+                                "width": 1627,
+                                "height": 1015,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2327,6 +2959,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674186.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2356,6 +2996,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674196.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2385,6 +3033,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674206.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2414,6 +3070,14 @@
                                 "width": 1639,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674246.json",
+                                "width": 1639,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2443,6 +3107,14 @@
                                 "width": 1622,
                                 "height": 1043,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674256.json",
+                                "width": 1622,
+                                "height": 1043,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2472,6 +3144,14 @@
                                 "width": 1650,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674266.json",
+                                "width": 1650,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2501,6 +3181,14 @@
                                 "width": 1645,
                                 "height": 1037,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674276.json",
+                                "width": 1645,
+                                "height": 1037,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2530,6 +3218,14 @@
                                 "width": 1060,
                                 "height": 1645,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674306.json",
+                                "width": 1060,
+                                "height": 1645,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2559,6 +3255,14 @@
                                 "width": 1662,
                                 "height": 1049,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1674316.json",
+                                "width": 1662,
+                                "height": 1049,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2588,6 +3292,14 @@
                                 "width": 1664,
                                 "height": 1040,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1766771.json",
+                                "width": 1664,
+                                "height": 1040,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2617,6 +3329,14 @@
                                 "width": 1616,
                                 "height": 1024,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1766666.json",
+                                "width": 1616,
+                                "height": 1024,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
@@ -2646,6 +3366,14 @@
                                 "width": 3264,
                                 "height": 2448,
                                 "format": "image\/jpeg"
+                            },
+                            "service": {
+                                "@context": "http:\/\/iiif.io\/api\/image\/2\/context.json",
+                                "@id": "https:\/\/404mike.github.io\/testiiif\/info\/1672996.json",
+                                "width": 3264,
+                                "height": 2448,
+                                "profile": "http:\/\/iiif.io\/api\/image\/level1.json",
+                                "protocol": "http:\/\/iiif.io\/api\/image"
                             }
                         }
                     ]
