@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://404mike.github.io/testiiif/test/test.json",
+  "id": "https://404mike.github.io/testiiif/test/double.json",
   "type": "Manifest",
   "label": {
     "en": [
