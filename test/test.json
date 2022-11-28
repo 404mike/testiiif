@@ -20,57 +20,191 @@
       "width": 4032,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/page/p1/1",
-          "type": "AnnotationPage",
-          "items": [
+          "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00001/canvas",
+          "type": "Canvas",
+          "label": {
+            "sv": [
+              "Bild 1"
+            ],
+            "en": [
+              "Image 1"
+            ]
+          },
+          "width": 3044,
+          "height": 2177,
+          "metadata": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/annotation/p0001-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 3024,
-                "width": 4032,
-                "service": [
-                  {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen",
-                    "profile": "level1",
-                    "type": "ImageService3"
-                  }
+              "label": {
+                "sv": [
+                  "Bildid"
+                ],
+                "en": [
+                  "Image ID"
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1"
+              "value": {"none":["00147269_00001"]}
+            },
+            {
+              "label": {
+                "sv": [
+                  "Länk"
+                ],
+                "en": [
+                  "Link"
+                ]
+              },
+              "value": {
+                "none": [
+                  "https://sok.riksarkivet.se/bildvisning/00147269_00001"
+                ]
+              }
+            },
+            {
+              "label": {
+                "sv": [
+                  "Källhänvisning"
+                ],
+                "en": [
+                  "Source reference"
+                ]
+              },
+              "value": {
+                "sv": [
+                  "Alunda kyrkoarkiv, Församlingsböcker. Bunden serie., SE/ULA/10012/A II a/1 (1896-1905), bildid: 00147269_00001"
+                ],
+                "en": [
+                  "Alunda kyrkoarkiv, Församlingsböcker. Bunden serie., SE/ULA/10012/A II a/1 (1896-1905), Image ID: 00147269_00001"
+                ]
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00001/annotationpage",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00001/annotation",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00001/full/max/0/default.jpg",
+                    "type": "Image",
+                    "width": 3044,
+                    "height": 2177,
+                    "format": "image/jpeg",
+                    "service": [
+                      {
+                        "id": "https://lbiiif.riksarkivet.se/v3/arkis!00147269_00001",
+                        "type": "ImageService3",
+                        "profile": "level1"
+                      },
+                      {
+                        "@id": "https://lbiiif.riksarkivet.se/v2/arkis!00147269_00001",
+                        "@type": "ImageService2",
+                        "profile": "http://iiif.io/api/image/2/level1.json"
+                      }
+                    ]
+                  },
+                  "target": "https://lbiiif.riksarkivet.se/arkis!00147269_00001/canvas"
+                }
+              ]
             }
           ]
         },
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/page/p1/2",
-          "type": "AnnotationPage",
-          "items": [
+          "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/canvas",
+          "type": "Canvas",
+          "label": {
+            "sv": [
+              "Bild 2"
+            ],
+            "en": [
+              "Image 2"
+            ]
+          },
+          "width": 5139,
+          "height": 3130,
+          "metadata": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/annotation/p0001-image",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen/full/max/0/default.jpg",
-                "type": "Image",
-                "format": "image/jpeg",
-                "height": 3024,
-                "width": 4032,
-                "service": [
-                  {
-                    "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen",
-                    "profile": "level1",
-                    "type": "ImageService3"
-                  }
+              "label": {
+                "sv": [
+                  "Bildid"
+                ],
+                "en": [
+                  "Image ID"
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1"
+              "value": {"none":["00147269_00002"]}
+            },
+            {
+              "label": {
+                "sv": [
+                  "Länk"
+                ],
+                "en": [
+                  "Link"
+                ]
+              },
+              "value": {
+                "none": [
+                  "https://sok.riksarkivet.se/bildvisning/00147269_00002"
+                ]
+              }
+            },
+            {
+              "label": {
+                "sv": [
+                  "Källhänvisning"
+                ],
+                "en": [
+                  "Source reference"
+                ]
+              },
+              "value": {
+                "sv": [
+                  "Alunda kyrkoarkiv, Församlingsböcker. Bunden serie., SE/ULA/10012/A II a/1 (1896-1905), bildid: 00147269_00002"
+                ],
+                "en": [
+                  "Alunda kyrkoarkiv, Församlingsböcker. Bunden serie., SE/ULA/10012/A II a/1 (1896-1905), Image ID: 00147269_00002"
+                ]
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/annotationpage",
+              "type": "AnnotationPage",
+              "items": [
+                {
+                  "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/annotation",
+                  "type": "Annotation",
+                  "motivation": "painting",
+                  "body": {
+                    "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/full/max/0/default.jpg",
+                    "type": "Image",
+                    "width": 5139,
+                    "height": 3130,
+                    "format": "image/jpeg",
+                    "service": [
+                      {
+                        "id": "https://lbiiif.riksarkivet.se/v3/arkis!00147269_00002",
+                        "type": "ImageService3",
+                        "profile": "level1"
+                      },
+                      {
+                        "@id": "https://lbiiif.riksarkivet.se/v2/arkis!00147269_00002",
+                        "@type": "ImageService2",
+                        "profile": "http://iiif.io/api/image/2/level1.json"
+                      }
+                    ]
+                  },
+                  "target": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/canvas"
+                }
+              ]
             }
           ]
-        }
+        },
       ]
     }
   ]
