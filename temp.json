@@ -10,7 +10,7 @@
   },
   "items": [
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/0",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -46,12 +46,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/0"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/1",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -87,12 +87,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/1"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/2",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -128,12 +128,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/2"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/3",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -169,12 +169,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/3"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/4",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -210,12 +210,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/4"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/5",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -251,12 +251,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/5"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/6",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -292,12 +292,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/6"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/7",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -333,12 +333,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/7"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/8",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -374,12 +374,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/8"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/9",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -415,12 +415,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/9"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/10",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -456,12 +456,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/10"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/11",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -497,12 +497,12 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/11"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/12",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
           "type": "Canvas",
           "label": {
               "en": [
@@ -538,7 +538,7 @@
                           }
                       }
                   ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/12"
+                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
               }
           ]
       }
