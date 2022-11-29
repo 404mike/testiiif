@@ -18,13 +18,15 @@
         },
         "height": 3024,
         "width": 4032,
-        "thumbnail": {
-            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2021\/November\/DXGC29-001.jpg",
-            "type": "dctypes:Image",
-            "width": 250,
-            "height": 250,
-            "format": "image\/jpeg"
-        },
+        "thumbnail": [
+            {
+                "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2021\/November\/DXGC29-001.jpg",
+                "type": "Image",
+                "width": 250,
+                "height": 250,
+                "format": "image\/jpeg"
+            }
+        ],
         "items": [
           {
             "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/page/p1/1",
