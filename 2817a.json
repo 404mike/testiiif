@@ -20,7 +20,7 @@
         "width": 4032,
         "thumbnail": [
             {
-                "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2021\/November\/DXGC29-001.jpg",
+                "id": "https://www.peoplescollection.wales/sites/default/files/styles/thumbnail/public/images/2021/November/DXGC29-001.jpg",
                 "type": "Image",
                 "width": 250,
                 "height": 250,
@@ -37,7 +37,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen/full/max/0/default.jpg",
+                  "id": "https://www.peoplescollection.wales/sites/default/files/images/2021/November/DXGC29-001.jpg",
                   "type": "Image",
                   "format": "image/jpeg",
                   "height": 3024,
@@ -50,35 +50,41 @@
         ]
       },
       {
-        "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/canvas",
+        "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
         "type": "Canvas",
         "label": {
-          "sv": [
-            "Bild 2"
-          ],
           "en": [
-            "Image 2"
+            "Canvas with a single IIIF image"
           ]
         },
-        "width": 5139,
-        "height": 3130,
+        "height": 3024,
+        "width": 4032,
+        "thumbnail": [
+            {
+                "id": "https://www.peoplescollection.wales/sites/default/files/styles/thumbnail/public/images/2021/November/DXGC29-002_0.jpg",
+                "type": "Image",
+                "width": 250,
+                "height": 250,
+                "format": "image\/jpeg"
+            }
+        ],
         "items": [
           {
-            "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/annotationpage",
+            "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/page/p1/1",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/annotation",
+                "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/annotation/p0001-image",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/full/max/0/default.jpg",
+                  "id": "https://www.peoplescollection.wales/sites/default/files/images/2021/November/DXGC29-002_0.jpg",
                   "type": "Image",
-                  "width": 5139,
-                  "height": 3130,
-                  "format": "image/jpeg"                  
+                  "format": "image/jpeg",
+                  "height": 3024,
+                  "width": 4032
                 },
-                "target": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/canvas"
+                "target": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1"
               }
             ]
           }
