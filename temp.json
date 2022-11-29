@@ -19,13 +19,15 @@
           },
           "height": 3264,
           "width": 2448,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0718.jpg?itok=orSyifMQ",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0718.jpg?itok=orSyifMQ",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/0-image",
@@ -52,13 +54,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0719.jpg?itok=sl-dCr3V",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0719.jpg?itok=sl-dCr3V",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/1-image",
@@ -85,13 +89,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0720.jpg?itok=EzqcSgJG",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0720.jpg?itok=EzqcSgJG",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/2-image",
@@ -118,13 +124,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0721.jpg?itok=QJq0kdGI",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0721.jpg?itok=QJq0kdGI",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/3-image",
@@ -151,13 +159,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0722.jpg?itok=oEumos4p",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0722.jpg?itok=oEumos4p",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/4-image",
@@ -184,13 +194,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0723.jpg?itok=PpcOBobx",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0723.jpg?itok=PpcOBobx",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/5-image",
@@ -217,13 +229,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0724.jpg?itok=YHfqCW-8",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0724.jpg?itok=YHfqCW-8",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/6-image",
@@ -250,13 +264,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0725.jpg?itok=B4cnUoUF",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0725.jpg?itok=B4cnUoUF",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/7-image",
@@ -283,13 +299,15 @@
           },
           "height": 3264,
           "width": 2448,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0726.jpg?itok=f2Q5kAMa",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0726.jpg?itok=f2Q5kAMa",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/8-image",
@@ -316,13 +334,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0727.jpg?itok=mH6jqw-c",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0727.jpg?itok=mH6jqw-c",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/9-image",
@@ -349,13 +369,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0728.jpg?itok=kZIvd_uf",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0728.jpg?itok=kZIvd_uf",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/10-image",
@@ -382,13 +404,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0729.jpg?itok=3TvHJHsK",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0729.jpg?itok=3TvHJHsK",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/11-image",
@@ -415,13 +439,15 @@
           },
           "height": 2448,
           "width": 3264,
-          "thumbnail": {
-              "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0730.jpg?itok=DnRQyaFK",
-              "type": "Image",
-              "width": 250,
-              "height": 250,
-              "format": "image\/jpeg"
-          },
+          "thumbnail": [
+              {
+                  "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2017\/October\/IMG_0730.jpg?itok=DnRQyaFK",
+                  "type": "Image",
+                  "width": 250,
+                  "height": 250,
+                  "format": "image\/jpeg"
+              }
+          ],
           "items": [
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/12-image",
