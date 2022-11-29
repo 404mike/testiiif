@@ -1,0 +1,86 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/testiiif/2817a.json",
+    "type": "Manifest",
+    "label": {
+      "en": [
+        "Picture of Göttingen taken during the 2019 IIIF Conference"
+      ]
+    },
+    "items": [
+      {
+        "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1",
+        "type": "Canvas",
+        "label": {
+          "en": [
+            "Canvas with a single IIIF image"
+          ]
+        },
+        "height": 3024,
+        "width": 4032,
+        "thumbnail": {
+            "@id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/styles\/thumbnail\/public\/images\/2021\/November\/DXGC29-001.jpg",
+            "type": "dctypes:Image",
+            "width": 250,
+            "height": 250,
+            "format": "image\/jpeg"
+        },
+        "items": [
+          {
+            "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/page/p1/1",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://iiif.io/api/cookbook/recipe/0005-image-service/annotation/p0001-image",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://iiif.io/api/image/3.0/example/reference/918ecd18c2592080851777620de9bcb5-gottingen/full/max/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 3024,
+                  "width": 4032
+                },
+                "target": "https://iiif.io/api/cookbook/recipe/0005-image-service/canvas/p1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/canvas",
+        "type": "Canvas",
+        "label": {
+          "sv": [
+            "Bild 2"
+          ],
+          "en": [
+            "Image 2"
+          ]
+        },
+        "width": 5139,
+        "height": 3130,
+        "items": [
+          {
+            "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/annotationpage",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/annotation",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/full/max/0/default.jpg",
+                  "type": "Image",
+                  "width": 5139,
+                  "height": 3130,
+                  "format": "image/jpeg"                  
+                },
+                "target": "https://lbiiif.riksarkivet.se/arkis!00147269_00002/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
