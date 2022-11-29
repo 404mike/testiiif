@@ -1,18 +1,14 @@
 
 {
-    "id": "https:\/\/404mike.github.io\/testiiif\/pdf.json",
+    "@context": [
+        "http:\/\/www.w3.org\/ns\/anno.jsonld",
+        "http:\/\/iiif.io\/api\/presentation\/3\/context.json"
+    ],
+    "id": "https://404mike.github.io/testiiif/pdf.json",
     "type": "Manifest",
-    "label": {
-        "en": [
-            "The Church of Jesus Christ of Latter Day Saints in 19th Century Wales: The Publications of Ronald D. Dennis"
-        ],
-        "cy": [
-            ""
-        ]
-    },
     "items": [
         {
-            "id": "http:\/\/drupalvm.local\/uv\/manifest\/1891931\/canvas\/0",
+            "id": "https:\/\/biiif-template-example-3kntb3jpl-mnemoscene.vercel.app\/pdf\/index.json\/canvas\/0",
             "type": "Canvas",
             "items": [
                 {
@@ -24,15 +20,45 @@
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://www.peoplescollection.wales/sites/default/files/Hist%20of%20the%20Ch%20of%20Jesus%20Christ%20of%20LDS%20in%2019C%20Wales_Publications%20of%20Ronald%20D%20Dennis.pdf",
+                                "id": "https:\/\/biiif-template-example-3kntb3jpl-mnemoscene.vercel.app\/pdf\/_scienceandthepublic\/scienceandthepublic.pdf",
                                 "type": "PDF",
-                                "format": "application\/pdf"
+                                "format": "application\/pdf",
+                                "label": {
+                                    "@none": [
+                                        "_scienceandthepublic"
+                                    ]
+                                }
                             },
-                            "target": "http:\/\/drupalvm.local\/uv\/manifest\/1891931\/canvas\/0"
+                            "target": "https:\/\/biiif-template-example-3kntb3jpl-mnemoscene.vercel.app\/pdf\/index.json\/canvas\/0"
                         }
                     ]
                 }
-            ]
+            ],
+            "label": {
+                "@none": [
+                    "_scienceandthepublic"
+                ]
+            }
         }
-    ]
+    ],
+    "label": {
+        "@none": [
+            "Science and the Public"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "@none": [
+                    "license"
+                ]
+            },
+            "value": {
+                "@none": [
+                    "http:\/\/creativecommons.org\/licenses\/by\/4.0\/"
+                ]
+            }
+        }
+    ],
+    "attribution": "Wellcome Collection"
 }
