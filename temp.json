@@ -30,15 +30,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/0-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/0",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0718.jpg",
-                      "type": "Image",
-                      "width": 2448,
-                      "height": 3264,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/0",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0718.jpg",
+                          "type": "Image",
+                          "width": 2448,
+                          "height": 3264,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/0"
               }
@@ -65,15 +69,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/1-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/1",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0719.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/1",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0719.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/1"
               }
@@ -100,15 +108,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/2-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/2",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0720.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/2",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0720.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/2"
               }
@@ -135,15 +147,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/3-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/3",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0721.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/3",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0721.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/3"
               }
@@ -170,15 +186,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/4-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/4",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0722.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/4",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0722.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/4"
               }
@@ -205,15 +225,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/5-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/5",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0723.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/5",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0723.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/5"
               }
@@ -240,15 +264,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/6-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/6",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0724.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/6",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0724.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/6"
               }
@@ -275,15 +303,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/7-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/7",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0725.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/7",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0725.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/7"
               }
@@ -310,15 +342,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/8-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/8",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0726.jpg",
-                      "type": "Image",
-                      "width": 2448,
-                      "height": 3264,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/8",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0726.jpg",
+                          "type": "Image",
+                          "width": 2448,
+                          "height": 3264,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/8"
               }
@@ -345,15 +381,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/9-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/9",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0727.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/9",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0727.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/9"
               }
@@ -380,15 +420,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/10-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/10",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0728.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/10",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0728.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/10"
               }
@@ -415,15 +459,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/11-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/11",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0729.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/11",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0729.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/11"
               }
@@ -450,15 +498,19 @@
           ],
           "items": [
               {
-                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/12-image",
+                  "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/12",
                   "type": "AnnotationPage",
-                  "motivation": "painting",
-                  "body": {
-                      "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0730.jpg",
-                      "type": "Image",
-                      "width": 3264,
-                      "height": 2448,
-                      "format": "image\/jpeg"
+                  "items": {
+                      "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/12",
+                      "type": "Annotation",
+                      "motivation": "painting",
+                      "body": {
+                          "id": "https:\/\/www.peoplescollection.wales\/sites\/default\/files\/images\/2017\/October\/IMG_0730.jpg",
+                          "type": "Image",
+                          "width": 3264,
+                          "height": 2448,
+                          "format": "image\/jpeg"
+                      }
                   },
                   "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/12"
               }
