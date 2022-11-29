@@ -10,7 +10,7 @@
   },
   "items": [
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/0",
           "type": "Canvas",
           "label": {
               "en": [
@@ -32,8 +32,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/0",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/0",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -44,14 +44,14 @@
                               "height": 3264,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/0"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/1",
           "type": "Canvas",
           "label": {
               "en": [
@@ -73,8 +73,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/1",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/1",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -85,14 +85,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/1"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/2",
           "type": "Canvas",
           "label": {
               "en": [
@@ -114,8 +114,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/2",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/2",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -126,14 +126,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/2"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/3",
           "type": "Canvas",
           "label": {
               "en": [
@@ -155,8 +155,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/3",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/3",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -167,14 +167,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/3"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/4",
           "type": "Canvas",
           "label": {
               "en": [
@@ -196,8 +196,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/4",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/4",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -208,14 +208,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/4"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/5",
           "type": "Canvas",
           "label": {
               "en": [
@@ -237,8 +237,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/5",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/5",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -249,14 +249,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/5"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/6",
           "type": "Canvas",
           "label": {
               "en": [
@@ -278,8 +278,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/6",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/6",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -290,14 +290,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/6"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/7",
           "type": "Canvas",
           "label": {
               "en": [
@@ -319,8 +319,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/7",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/7",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -331,14 +331,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/7"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/8",
           "type": "Canvas",
           "label": {
               "en": [
@@ -360,8 +360,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/8",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/8",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -372,14 +372,14 @@
                               "height": 3264,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/8"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/9",
           "type": "Canvas",
           "label": {
               "en": [
@@ -401,8 +401,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/9",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/9",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -413,14 +413,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/9"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/10",
           "type": "Canvas",
           "label": {
               "en": [
@@ -442,8 +442,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/10",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/10",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -454,14 +454,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/10"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/11",
           "type": "Canvas",
           "label": {
               "en": [
@@ -483,8 +483,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/11",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/11",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -495,14 +495,14 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/11"
+                  }
               }
           ]
       },
       {
-          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas",
+          "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/12",
           "type": "Canvas",
           "label": {
               "en": [
@@ -524,8 +524,8 @@
               {
                   "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/page\/12",
                   "type": "AnnotationPage",
-                  "items": [
-                      {
+                  "items": {
+                      "0": {
                           "id": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/annotation\/12",
                           "type": "Annotation",
                           "motivation": "painting",
@@ -536,9 +536,9 @@
                               "height": 2448,
                               "format": "image\/jpeg"
                           }
-                      }
-                  ],
-                  "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas"
+                      },
+                      "target": "http:\/\/drupalvm.local\/uv\/manifest\/606353\/canvas\/12"
+                  }
               }
           ]
       }
