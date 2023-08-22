@@ -1,0 +1,59 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "type": "Manifest",
+    "id": "https://404mike.github.io/testiiif/13.json",
+    "label": {
+      "en": [
+        "A family leaving Capel Celyn (Cwm Tryweryn) for the last time, 1956"
+      ],
+      "cy": [
+        "Teulu yn gadael Capel Celyn (Cwm Tryweryn) am y tro olaf, 1956"
+      ]
+    },
+    "items": [
+      {
+        "id": "http://peoplescollection.wales/uv/manifest/13/canvas/0",
+        "type": "Canvas",
+        "label": {
+          "en": [
+            "Image 1"
+          ],
+          "cy": [
+            "Delwedd 1"
+          ]
+        },
+        "height": 460,
+        "width": 595,
+        "thumbnail": [
+          {
+            "id": "https://www.peoplescollection.wales/sites/default/files/styles/thumbnail/public/images/2014/February/GTJ11787_2.jpg?itok=BXty79oB",
+            "type": "Image",
+            "width": 250,
+            "height": 250,
+            "format": "image/jpeg"
+          }
+        ],
+        "items": [
+          {
+            "id": "http://peoplescollection.wales/uv/manifest/13/page/0",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "http://peoplescollection.wales/uv/manifest/13/annotation/0",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.peoplescollection.wales/sites/default/files/images/2014/February/GTJ11787_2.jpg",
+                  "type": "Image",
+                  "width": 595,
+                  "height": 460,
+                  "format": "image/jpeg"
+                },
+                "target": "http://peoplescollection.wales/uv/manifest/13/canvas/0"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
