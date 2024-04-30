@@ -45629,9 +45629,18 @@
     ],
     "structures": [
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642028.json",
-            "@type": "sc:Canvas",
-            "label": "Front matter - pg. 6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/0",
+            "@type": "sc:Range",
+            "label": "Front matter",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642023.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642024.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642025.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642026.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642027.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642028.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642023.json",
@@ -45666,9 +45675,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/1-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/1",
             "@type": "sc:Range",
-            "label": "Personnel",
+            "label": "Royal Navy",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/1-0",
@@ -46023,9 +46033,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/2-2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/2",
             "@type": "sc:Range",
-            "label": "Airmen",
+            "label": "Royal Flying Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/2-0",
@@ -46090,9 +46101,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/3-2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/3",
             "@type": "sc:Range",
-            "label": "Non-Commissioned Officers and Men",
+            "label": "Royal Air Force",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/3-0",
@@ -46163,9 +46175,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4",
             "@type": "sc:Range",
-            "label": "Corps of Hussars",
+            "label": "Cavalry",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-0",
@@ -46498,9 +46511,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5-12",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5",
             "@type": "sc:Range",
-            "label": "Pembrokeshire",
+            "label": "Royal Regiment of Artillery",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5-0",
@@ -46757,9 +46771,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/6-4",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/6",
             "@type": "sc:Range",
-            "label": "Roads and Quarries",
+            "label": "Corps of Royal Engineers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642144.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642144.json",
@@ -46935,9 +46953,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/7-5",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/7",
             "@type": "sc:Range",
-            "label": "Fifth (Reserve) Battalion",
+            "label": "Grenadier Guards",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642163.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642163.json",
@@ -47045,9 +47067,14 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642167.json",
-            "@type": "sc:Canvas",
-            "label": "Coldstream Guards - pg. 2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/8",
+            "@type": "sc:Range",
+            "label": "Coldstream Guards",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642166.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642167.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642166.json",
@@ -47062,9 +47089,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642167.json",
-            "@type": "sc:Canvas",
-            "label": "Scots Guards - pg. 1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/9",
+            "@type": "sc:Range",
+            "label": "Scots Guards",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642167.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642167.json",
@@ -47074,9 +47105,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/10-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/10",
             "@type": "sc:Range",
-            "label": "Second Battalion",
+            "label": "Irish Guards",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/10-0",
@@ -47119,9 +47151,14 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/11-2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/11",
             "@type": "sc:Range",
-            "label": "First Battalion",
+            "label": "Welsh Guards",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642168.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642169.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642168.json",
@@ -47224,9 +47261,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/12-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/12",
             "@type": "sc:Range",
-            "label": "Fifth (Reserve) Battalion",
+            "label": "Guards Machine Gun Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/12-0",
@@ -47269,9 +47307,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/13-5",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/13",
             "@type": "sc:Range",
-            "label": "Fifteenth Battalion",
+            "label": "Royal Scots (Lothian Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/13-0",
@@ -47372,9 +47411,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/14-10",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/14",
             "@type": "sc:Range",
-            "label": "Fifteenth Labour Company",
+            "label": "The Queen's (Royal West Surrey Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642182.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642182.json",
@@ -47550,9 +47593,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/15-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/15",
             "@type": "sc:Range",
-            "label": "Eighth Battalion",
+            "label": "The Buffs (East Kent Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642184.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642184.json",
@@ -47664,9 +47711,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/16-11",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/16",
             "@type": "sc:Range",
-            "label": "Second Fifth Battalion",
+            "label": "The King's Own (Royal Lancaster Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/16-0",
@@ -47869,9 +47917,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/17-27",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/17",
             "@type": "sc:Range",
-            "label": "First Seventh Battalion",
+            "label": "Northumberland Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642187.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642187.json",
@@ -48325,9 +48377,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/18-20",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/18",
             "@type": "sc:Range",
-            "label": "Sixteenth Battalion",
+            "label": "Royal Warwickshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642191.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642191.json",
@@ -48675,9 +48731,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/19-26",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/19",
             "@type": "sc:Range",
-            "label": "Posted First 4th London Regiment",
+            "label": "Royal Fusiliers (City of London Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642195.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642195.json",
@@ -49127,9 +49187,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/20-30",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/20",
             "@type": "sc:Range",
-            "label": "Labour Companies",
+            "label": "The King's (Liverpool Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642200.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642200.json",
@@ -49649,9 +49713,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/21-3",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/21",
             "@type": "sc:Range",
-            "label": "Ninth Battalion",
+            "label": "Norfolk Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/21-0",
@@ -49720,9 +49785,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/22-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/22",
             "@type": "sc:Range",
-            "label": "Tenth Battalion",
+            "label": "Lincolnshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642209.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642209.json",
@@ -49850,9 +49919,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/23-13",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/23",
             "@type": "sc:Range",
-            "label": "First (Garrison) Battalion",
+            "label": "Devonshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/23-0",
@@ -50117,9 +50187,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/24-9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/24",
             "@type": "sc:Range",
-            "label": "First Reserve Garrison Battalion",
+            "label": "Suffolk Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642217.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642217.json",
@@ -50273,9 +50347,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/25-9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/25",
             "@type": "sc:Range",
-            "label": "First Fifth Battalion",
+            "label": "Prince Albert's (Somerset Light Infantry)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642218.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642218.json",
@@ -50465,9 +50543,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-12",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
             "@type": "sc:Range",
-            "label": "Twenty-first Battalion",
+            "label": "The Prince of Wales's Own (West Yorkshire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-0",
@@ -50680,9 +50759,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/27-9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/27",
             "@type": "sc:Range",
-            "label": "First Fifth Battalion",
+            "label": "East Yorkshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/27-0",
@@ -50847,9 +50927,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/28-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/28",
             "@type": "sc:Range",
-            "label": "Eighth Battalion",
+            "label": "Bedfordshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642227.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642227.json",
@@ -50955,9 +51039,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/29-9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/29",
             "@type": "sc:Range",
-            "label": "First Garrison Battalion",
+            "label": "Leicestershire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642228.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642228.json",
@@ -51111,9 +51199,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/30-3",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/30",
             "@type": "sc:Range",
-            "label": "Sixth Battalion",
+            "label": "Royal Irish Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642230.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642230.json",
@@ -51177,9 +51269,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-14",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
             "@type": "sc:Range",
-            "label": "First Garrison Battalion",
+            "label": "Alexandra, Princess of Wales's Own (Yorkshire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
@@ -51419,9 +51515,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/32-24",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/32",
             "@type": "sc:Range",
-            "label": "Second Eighth Battalion",
+            "label": "Lancashire Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
@@ -51839,9 +51939,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/33-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/33",
             "@type": "sc:Range",
-            "label": "Twelfth Battalion",
+            "label": "Royal Scots Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/33-0",
@@ -51958,9 +52059,14 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/34-24",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/34",
             "@type": "sc:Range",
-            "label": "Blank Page",
+            "label": "Cheshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642240.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642241.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642240.json",
@@ -52379,9 +52485,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/35-50",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/35",
             "@type": "sc:Range",
-            "label": "Blank page",
+            "label": "Royal Welch Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/35-0",
@@ -54696,9 +54803,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/36-19",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/36",
             "@type": "sc:Range",
-            "label": "Brecknock Battalion",
+            "label": "South Wales Borderers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/36-0",
@@ -55875,9 +55983,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
             "@type": "sc:Range",
-            "label": "Seventh Eighth Battalion",
+            "label": "King's Own Scottish Borderers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
@@ -55983,9 +56095,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/38-5",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/38",
             "@type": "sc:Range",
-            "label": "Tenth Battalion",
+            "label": "Cameronians (Scottish Rifles)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642649.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642649.json",
@@ -56075,9 +56191,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/39-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/39",
             "@type": "sc:Range",
-            "label": "Ninth Battalion",
+            "label": "Royal Inniskilling Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/39-0",
@@ -56210,9 +56327,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/40-17",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/40",
             "@type": "sc:Range",
-            "label": "Fourteenth (Service) Battalion (West of England)",
+            "label": "Gloucestershire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642650.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642650.json",
@@ -56500,9 +56621,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/41-13",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/41",
             "@type": "sc:Range",
-            "label": "First Garrison Battalion",
+            "label": "Worcestershire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642656.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642656.json",
@@ -56732,9 +56857,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/42-14",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/42",
             "@type": "sc:Range",
-            "label": "Second Fifth Battalion",
+            "label": "East Lancashire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642659.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642659.json",
@@ -56974,9 +57103,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/43-9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/43",
             "@type": "sc:Range",
-            "label": "Second 23rd Battalion",
+            "label": "East Surrey Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642661.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642661.json",
@@ -57142,9 +57275,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/44-8",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/44",
             "@type": "sc:Range",
-            "label": "Tenth Battalion",
+            "label": "The Duke of Cornwall's Light Infantry",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642663.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642663.json",
@@ -57288,9 +57425,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/45-10",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/45",
             "@type": "sc:Range",
-            "label": "Thirteenth Battalion",
+            "label": "The Duke of Wellington's (West Riding Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642665.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642665.json",
@@ -57466,9 +57607,14 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/46-9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/46",
             "@type": "sc:Range",
-            "label": "Eleventh Battalion",
+            "label": "Border Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642666.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642667.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642666.json",
@@ -57617,9 +57763,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/47-8",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/47",
             "@type": "sc:Range",
-            "label": "Sixteenth Battalion",
+            "label": "Royal Sussex Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642668.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642668.json",
@@ -57757,9 +57907,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/48-8",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/48",
             "@type": "sc:Range",
-            "label": "First Eighth Battalion",
+            "label": "Hampshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642670.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642670.json",
@@ -57897,9 +58051,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/49-12",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/49",
             "@type": "sc:Range",
-            "label": "First Garrison Battalion",
+            "label": "South Staffordshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642671.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642671.json",
@@ -58113,9 +58271,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/50-5",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/50",
             "@type": "sc:Range",
-            "label": "Third Battalion",
+            "label": "Dorset Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642673.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642673.json",
@@ -58223,9 +58385,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/51-15",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/51",
             "@type": "sc:Range",
-            "label": "Blank page",
+            "label": "The Prince of Wales's Volunteers (South Lancashire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642676.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642676.json",
@@ -58505,9 +58671,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/52-33",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/52",
             "@type": "sc:Range",
-            "label": "Depot",
+            "label": "The Welch Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/52-0",
@@ -60208,9 +60375,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/53-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/53",
             "@type": "sc:Range",
-            "label": "Tenth Battalion",
+            "label": "Black Watch (Royal Highlanders)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/53-0",
@@ -60327,9 +60495,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/54-11",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/54",
             "@type": "sc:Range",
-            "label": "Second 1st Buckinghamshire Battalion",
+            "label": "Oxfordshire and Buckinghamshire Light Infantry",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/54-0",
@@ -60532,9 +60701,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/55-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/55",
             "@type": "sc:Range",
-            "label": "Thirteenth Battalion",
+            "label": "Essex Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642884.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642884.json",
@@ -60640,9 +60813,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/56-13",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/56",
             "@type": "sc:Range",
-            "label": "Sixteenth Battalion",
+            "label": "Sherwood Foresters (Nottinghamshire and Derbshire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642885.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642885.json",
@@ -60866,9 +61043,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/57-15",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/57",
             "@type": "sc:Range",
-            "label": "Depot",
+            "label": "Loyal North Lancashire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/57-0",
@@ -61141,9 +61319,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/58-4",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/58",
             "@type": "sc:Range",
-            "label": "Seventh Battalion",
+            "label": "Northamptonshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
@@ -61217,9 +61399,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
             "@type": "sc:Range",
-            "label": "Eighth Battalion",
+            "label": "Princess Charlote of Wales's (Royal Berkshire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
@@ -61347,9 +61533,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/60-11",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/60",
             "@type": "sc:Range",
-            "label": "Second 20th London Regiment",
+            "label": "The Queen's Own (Royal West Kent Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642893.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642893.json",
@@ -61547,9 +61737,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/61-15",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/61",
             "@type": "sc:Range",
-            "label": "Second Fifth Battalion",
+            "label": "The King's Own (Yorkshire Light Infantry)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642895.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642895.json",
@@ -61805,9 +61999,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-14",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
             "@type": "sc:Range",
-            "label": "Serving at the time of death with the undermentioned Battalion of the 1/1st Herefords",
+            "label": "The King's (Shropshire Light Infantry)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
@@ -62107,9 +62305,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/63-20",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/63",
             "@type": "sc:Range",
-            "label": "Nineteenth London Battalion",
+            "label": "The Duke of Cambridge's Own (The Middlesex Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
@@ -62451,9 +62653,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-21",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
             "@type": "sc:Range",
-            "label": "Sixteenth Battalion (The County of London Regiment)",
+            "label": "The King's Royal Rifle Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
@@ -62823,9 +63029,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/65-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/65",
             "@type": "sc:Range",
-            "label": "First Battalion",
+            "label": "The Duke of Edinburgh's (Wiltshire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
@@ -62959,9 +63169,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/66-29",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/66",
             "@type": "sc:Range",
-            "label": "Fifty-first (G) Battalion",
+            "label": "Manchester Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642919.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642919.json",
@@ -63447,9 +63661,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/67-14",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/67",
             "@type": "sc:Range",
-            "label": "Second Home Service Battalion",
+            "label": "The Prince of Wales's (North Staffordshire Regiment)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642924.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642924.json",
@@ -63683,9 +63901,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/68-14",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/68",
             "@type": "sc:Range",
-            "label": "Eighteenth (Service) Battalion",
+            "label": "York & Lancaster Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642926.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642926.json",
@@ -63919,9 +64141,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/69-15",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/69",
             "@type": "sc:Range",
-            "label": "Twenty-ninth Battalion",
+            "label": "Durham Light Infantry",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642928.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642928.json",
@@ -64171,9 +64397,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/70-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/70",
             "@type": "sc:Range",
-            "label": "Fifty-second Training Reserve Battalion",
+            "label": "Highland Light Infantry",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/70-0",
@@ -64312,9 +64539,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-8",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
             "@type": "sc:Range",
-            "label": "Ninth Battalion",
+            "label": "Seaforth Highland (Ross-shire Buffs, The Duke of Albany's)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
@@ -64458,9 +64689,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/72-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/72",
             "@type": "sc:Range",
-            "label": "Tenth Battalion",
+            "label": "Gordon Highlanders",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642933.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642933.json",
@@ -64582,9 +64817,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/73-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/73",
             "@type": "sc:Range",
-            "label": "Eleventh Battalion",
+            "label": "The Queen's Own Cameron Highlanders",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642933.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642933.json",
@@ -64706,9 +64945,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/74-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/74",
             "@type": "sc:Range",
-            "label": "First 8th London Regiment",
+            "label": "Royal Irish Rifles",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/74-0",
@@ -64831,9 +65071,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
             "@type": "sc:Range",
-            "label": "Ninth Battalion",
+            "label": "Princess Victoria's (Royal Irish Fusiliers)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-0",
@@ -64972,9 +65213,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/76-3",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/76",
             "@type": "sc:Range",
-            "label": "",
+            "label": "Connaught Rangers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
@@ -65032,9 +65277,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/77-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/77",
             "@type": "sc:Range",
-            "label": "Twelfth Battalion",
+            "label": "Princess Louise's (Argyll & Sutherland Highlanders)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642938.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642938.json",
@@ -65140,9 +65389,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/78-3",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/78",
             "@type": "sc:Range",
-            "label": "Depot",
+            "label": "The Prince of Wales's Leinster Regiment (Royal Canadians)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/78-0",
@@ -65211,9 +65461,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/79-6",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/79",
             "@type": "sc:Range",
-            "label": "Ninth Battalion",
+            "label": "Royal Munster Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/79-0",
@@ -65342,9 +65593,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/80-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/80",
             "@type": "sc:Range",
-            "label": "Third Battalion",
+            "label": "Royal Dublin Fusiliers",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/80-0",
@@ -65483,9 +65735,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/81-21",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/81",
             "@type": "sc:Range",
-            "label": "Twenty-fifth Garrison Battalion (Reserve)",
+            "label": "Rifle Brigade (The Prince Consort's Own)",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642943.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642943.json",
@@ -65867,9 +66123,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/82-5",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/82",
             "@type": "sc:Range",
-            "label": "Motor Branch",
+            "label": "Machine Gun Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642950.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642950.json",
@@ -66037,9 +66297,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/83-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/83",
             "@type": "sc:Range",
-            "label": "Territorial Officers Attached to Tank Corps",
+            "label": "Tank Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642963.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642963.json",
@@ -66071,9 +66335,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/84-25",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/84",
             "@type": "sc:Range",
-            "label": "Eighteenth (City of London) Battalion (London Irish Rifles)",
+            "label": "London Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642964.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642964.json",
@@ -66501,9 +66769,14 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/85-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/85",
             "@type": "sc:Range",
-            "label": "Fourth Battalion",
+            "label": "Monmouthshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642970.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642971.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642970.json",
@@ -66848,9 +67121,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/86-0",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/86",
             "@type": "sc:Range",
-            "label": "First Battalion",
+            "label": "Cambridgeshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/86-0",
@@ -66871,9 +67145,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643010.json",
-            "@type": "sc:Canvas",
-            "label": "Hertfordshire Regiment  - pg. 1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/87",
+            "@type": "sc:Range",
+            "label": "Hertfordshire Regiment ",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643010.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643010.json",
@@ -66883,9 +67161,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/88-7",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/88",
             "@type": "sc:Range",
-            "label": "Serving at the Time of Death with the undermentioned Battalions of the King's Shropshire Light Infantry: Fifth Battalion ",
+            "label": "Herefordshire Regiment",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643011.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643011.json",
@@ -67007,9 +67289,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/89-2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/89",
             "@type": "sc:Range",
-            "label": "South Midland Divisional Cyclist Company",
+            "label": "Army Cyclists Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643012.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643012.json",
@@ -67051,9 +67337,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643013.json",
-            "@type": "sc:Canvas",
-            "label": "Royal Defence Corps - pg. 1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/90",
+            "@type": "sc:Range",
+            "label": "Royal Defence Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643013.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643013.json",
@@ -67063,9 +67353,21 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json",
-            "@type": "sc:Canvas",
-            "label": "Royal Army Service Corps - pg. 9",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/91",
+            "@type": "sc:Range",
+            "label": "Royal Army Service Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643014.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643015.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643016.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643017.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643018.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643019.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643020.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643021.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643014.json",
@@ -67115,9 +67417,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/92-2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/92",
             "@type": "sc:Range",
-            "label": "Territorial Force",
+            "label": "Royal Army Medical Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json",
@@ -67201,9 +67507,17 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json",
-            "@type": "sc:Canvas",
-            "label": "Labour Corps - pg. 5",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/93",
+            "@type": "sc:Range",
+            "label": "Labour Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643029.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643030.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643031.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643032.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643029.json",
@@ -67233,9 +67547,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json",
-            "@type": "sc:Canvas",
-            "label": "Royal Army Ordnance Corps - pg. 1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/94",
+            "@type": "sc:Range",
+            "label": "Royal Army Ordnance Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json",
@@ -67245,9 +67563,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json",
-            "@type": "sc:Canvas",
-            "label": "Royal Army Veterinary Corps - pg. 1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/95",
+            "@type": "sc:Range",
+            "label": "Royal Army Veterinary Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643033.json",
@@ -67257,9 +67579,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643034.json",
-            "@type": "sc:Canvas",
-            "label": "Royal Army Pay Corps - pg. 1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/96",
+            "@type": "sc:Range",
+            "label": "Royal Army Pay Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643034.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643034.json",
@@ -67269,9 +67595,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/97-0",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/97",
             "@type": "sc:Range",
-            "label": "Royal Guernsey Light Infantry",
+            "label": "Channel Isles Militia",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/97-0",
@@ -67289,9 +67616,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/98-3",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/98",
             "@type": "sc:Range",
-            "label": "Non-Combatant Corps",
+            "label": "Corps of Military Police",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/98-0",
@@ -67360,9 +67688,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/99-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/99",
             "@type": "sc:Range",
-            "label": "Voluntary Aid",
+            "label": "Queen Mary's Army Auxiliary Corps",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643035.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643035.json",
@@ -67388,9 +67720,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/100-2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/100",
             "@type": "sc:Range",
-            "label": "Blank page",
+            "label": "Saint John Ambulance Brigade",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/100-0",
@@ -67443,9 +67776,10 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/101-0",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/101",
             "@type": "sc:Range",
-            "label": "First Battalion",
+            "label": "Newfoundland Contingent",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/101-0",
@@ -67466,9 +67800,25 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/102-14",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/102",
             "@type": "sc:Range",
-            "label": "Service In Canada",
+            "label": "Canadian Expeditionary Force Service in France",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643041.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643042.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643043.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643044.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643045.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643046.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643047.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643048.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643049.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643050.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643051.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643052.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643053.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643041.json",
@@ -67570,9 +67920,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/103-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/103",
             "@type": "sc:Range",
-            "label": "Blank page",
+            "label": "Indian Army",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643055.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643055.json",
@@ -67598,9 +67952,14 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643058.json",
-            "@type": "sc:Canvas",
-            "label": "New Zealand Expeditionary Force - pg. 2",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/104",
+            "@type": "sc:Range",
+            "label": "New Zealand Expeditionary Force",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643057.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643058.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643057.json",
@@ -67615,9 +67974,13 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/105-1",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/105",
             "@type": "sc:Range",
-            "label": "Blank page",
+            "label": "Southern Rhodesia Forces",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643058.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643058.json",
@@ -67649,9 +68012,50 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643098.json",
-            "@type": "sc:Canvas",
-            "label": "British Mercantile Marine - pg. 38",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/106",
+            "@type": "sc:Range",
+            "label": "British Mercantile Marine",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643061.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643062.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643063.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643064.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643065.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643066.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643067.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643068.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643069.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643070.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643071.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643072.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643073.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643074.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643075.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643076.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643077.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643078.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643079.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643080.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643081.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643082.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643083.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643084.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643085.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643086.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643087.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643088.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643089.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643090.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643091.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643092.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643093.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643094.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643095.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643096.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643097.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643098.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643061.json",
@@ -67846,9 +68250,19 @@
             ]
         },
         {
-            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643105.json",
-            "@type": "sc:Canvas",
-            "label": "General View",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/107",
+            "@type": "sc:Range",
+            "label": "Back matter",
+            "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+            "canvases": [
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643099.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643100.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643101.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643102.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643103.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643104.json",
+                "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643105.json"
+            ],
             "members": [
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643099.json",
