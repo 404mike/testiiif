@@ -7,7 +7,7 @@
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
         "@context": "http://iiif.io/api/search/0/context.json"
     },
-    "label": "The Welsh Book of Remembrance 1928 - please!",
+    "label": "The Welsh Book of Remembrance 1928 - please!???????",
     "metadata": [
         {
             "label": [
@@ -46185,6 +46185,9 @@
                     "@type": "sc:Range",
                     "label": "Household Cavalry",
                     "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4",
+                    "canvases": [
+                        "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json"
+                    ],
                     "members": [
                         [
                             {
