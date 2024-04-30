@@ -7,7 +7,7 @@
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
         "@context": "http://iiif.io/api/search/0/context.json"
     },
-    "label": "The Welsh Book of Remembrance 1928 ??",
+    "label": "The Welsh Book of Remembrance 1928 - test",
     "metadata": [
         {
             "label": [
