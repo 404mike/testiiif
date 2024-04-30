@@ -7,7 +7,7 @@
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
         "@context": "http://iiif.io/api/search/0/context.json"
     },
-    "label": "The Welsh Book of Remembrance 1928.1",
+    "label": "The Welsh Book of Remembrance 1928.2",
     "metadata": [
         {
             "label": [
@@ -46176,22 +46176,50 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-0-0",
                             "@type": "sc:Range",
-                            "label": "First Life Guards"
+                            "label": "First Life Guards",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "First Life Guards - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-0-1",
                             "@type": "sc:Range",
-                            "label": "Second Life Guards"
+                            "label": "Second Life Guards",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Second Life Guards - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-0-2",
                             "@type": "sc:Range",
-                            "label": "Royal Horse Guards (The Blues)"
+                            "label": "Royal Horse Guards (The Blues)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Royal Horse Guards (The Blues) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-0-3",
                             "@type": "sc:Range",
-                            "label": "Household Battalion"
+                            "label": "Household Battalion",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Household Battalion - pg. 1"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46207,12 +46235,26 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-0",
                             "@type": "sc:Range",
-                            "label": "Second Dragoon Guards (Queen's Bays)"
+                            "label": "Second Dragoon Guards (Queen's Bays)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Second Dragoon Guards (Queen's Bays) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-1",
                             "@type": "sc:Range",
-                            "label": "Third Dragoon Guards (Prince of Wales' Own)"
+                            "label": "Third Dragoon Guards (Prince of Wales' Own)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642091.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Third Dragoon Guards (Prince of Wales' Own) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
@@ -46222,32 +46264,79 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-3",
                             "@type": "sc:Range",
-                            "label": "Fourth Dragoon Guards (Royal Irish)"
+                            "label": "Fourth Dragoon Guards (Royal Irish)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Fourth Dragoon Guards (Royal Irish) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-4",
                             "@type": "sc:Range",
-                            "label": "Fifth Dragoon Guards (Princess Charlotte's Own)"
+                            "label": "Fifth Dragoon Guards (Princess Charlotte's Own)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Fifth Dragoon Guards (Princess Charlotte's Own) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-5",
                             "@type": "sc:Range",
-                            "label": "Sixth Dragoon Guards (Carabineers)"
+                            "label": "Sixth Dragoon Guards (Carabineers)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Sixth Dragoon Guards (Carabineers) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-6",
                             "@type": "sc:Range",
-                            "label": "Seventh Dragoon Guards (Princess Royal's)"
+                            "label": "Seventh Dragoon Guards (Princess Royal's)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Seventh Dragoon Guards (Princess Royal's) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-7",
                             "@type": "sc:Range",
-                            "label": "First Royal Dragoons"
+                            "label": "First Royal Dragoons",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "First Royal Dragoons - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-1-8",
                             "@type": "sc:Range",
-                            "label": "Sixth Dragoons (Inniskilling)"
+                            "label": "Sixth Dragoons (Inniskilling)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642092.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Sixth Dragoons (Inniskilling) - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642093.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Sixth Dragoons (Inniskilling) - pg. 2"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46260,27 +46349,67 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-2-0",
                             "@type": "sc:Range",
-                            "label": "Fifth Lancers (Royal Irish)"
+                            "label": "Fifth Lancers (Royal Irish)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642093.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Fifth Lancers (Royal Irish) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-2-1",
                             "@type": "sc:Range",
-                            "label": "Ninth Lancers (Queen's Royal)"
+                            "label": "Ninth Lancers (Queen's Royal)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642093.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Ninth Lancers (Queen's Royal) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-2-2",
                             "@type": "sc:Range",
-                            "label": "Sixteenth Lancers (The Queen's)"
+                            "label": "Sixteenth Lancers (The Queen's)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642093.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Sixteenth Lancers (The Queen's) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-2-3",
                             "@type": "sc:Range",
-                            "label": "Seventeenth Lancers (Duke of Cambridge's Own)"
+                            "label": "Seventeenth Lancers (Duke of Cambridge's Own)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642093.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Seventeenth Lancers (Duke of Cambridge's Own) - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Seventeenth Lancers (Duke of Cambridge's Own) - pg. 2"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-2-4",
                             "@type": "sc:Range",
-                            "label": "Twenty-First Lancers (Empress of India's)"
+                            "label": "Twenty-First Lancers (Empress of India's)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Twenty-First Lancers (Empress of India's) - pg. 1"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46293,72 +46422,180 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-0",
                             "@type": "sc:Range",
-                            "label": "First King Edward's Horse"
+                            "label": "First King Edward's Horse",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "First King Edward's Horse - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-1",
                             "@type": "sc:Range",
-                            "label": "First Reserve Cavalry Regiment (1st & 5th Dragoon Gds.)"
+                            "label": "First Reserve Cavalry Regiment (1st & 5th Dragoon Gds.)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "First Reserve Cavalry Regiment (1st & 5th Dragoon Gds.) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-2",
                             "@type": "sc:Range",
-                            "label": "Second Reserve Cavalry Regiment (2nd Dragoon Gds. & 6th Dragoons)"
+                            "label": "Second Reserve Cavalry Regiment (2nd Dragoon Gds. & 6th Dragoons)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Second Reserve Cavalry Regiment (2nd Dragoon Gds. & 6th Dragoons) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-3",
                             "@type": "sc:Range",
-                            "label": "Third Reserve Cavalry Regiment (3rd & 6th Dragoon Gds.)"
+                            "label": "Third Reserve Cavalry Regiment (3rd & 6th Dragoon Gds.)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Third Reserve Cavalry Regiment (3rd & 6th Dragoon Gds.) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-4",
                             "@type": "sc:Range",
-                            "label": "Sixth Reserve Cavalry Regiment (5th & 12th Lancers)"
+                            "label": "Sixth Reserve Cavalry Regiment (5th & 12th Lancers)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Sixth Reserve Cavalry Regiment (5th & 12th Lancers) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-5",
                             "@type": "sc:Range",
-                            "label": "Eighth Reserve Cavalry Regiment (16th & 17th Lancers)"
+                            "label": "Eighth Reserve Cavalry Regiment (16th & 17th Lancers)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Eighth Reserve Cavalry Regiment (16th & 17th Lancers) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-6",
                             "@type": "sc:Range",
-                            "label": "Shropshire Yeomanry"
+                            "label": "Shropshire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642094.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Shropshire Yeomanry - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642095.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Shropshire Yeomanry - pg. 2"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-7",
                             "@type": "sc:Range",
-                            "label": "Duke of Lancaster's Own Yeomanry"
+                            "label": "Duke of Lancaster's Own Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642095.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Duke of Lancaster's Own Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-8",
                             "@type": "sc:Range",
-                            "label": "Berkshire Yeomanry"
+                            "label": "Berkshire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642095.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Berkshire Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-9",
                             "@type": "sc:Range",
-                            "label": "Montgomeryshire Yeomanry"
+                            "label": "Montgomeryshire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642095.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Montgomeryshire Yeomanry - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642096.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Montgomeryshire Yeomanry - pg. 2"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-10",
                             "@type": "sc:Range",
-                            "label": "Glamorganshire Yeomanry"
+                            "label": "Glamorganshire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642096.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Glamorganshire Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-11",
                             "@type": "sc:Range",
-                            "label": "Lovat's Scouts"
+                            "label": "Lovat's Scouts",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642096.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Lovat's Scouts - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-12",
                             "@type": "sc:Range",
-                            "label": "Scottish Horse Yeomanry"
+                            "label": "Scottish Horse Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642096.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Scottish Horse Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-3-13",
                             "@type": "sc:Range",
-                            "label": "City of London Yeomanry"
+                            "label": "City of London Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642097.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "City of London Yeomanry - pg. 1"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46371,127 +46608,312 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-0",
                             "@type": "sc:Range",
-                            "label": "Fourth Hussars (Queen's Own)"
+                            "label": "Fourth Hussars (Queen's Own)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642097.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Fourth Hussars (Queen's Own) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-1",
                             "@type": "sc:Range",
-                            "label": "Seventh Hussars (Queen's Own)"
+                            "label": "Seventh Hussars (Queen's Own)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642097.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Seventh Hussars (Queen's Own) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-2",
                             "@type": "sc:Range",
-                            "label": "Tenth Hussars (Prince of Wales' Own Royal)"
+                            "label": "Tenth Hussars (Prince of Wales' Own Royal)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642097.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Tenth Hussars (Prince of Wales' Own Royal) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-3",
                             "@type": "sc:Range",
-                            "label": "Eleventh Hussars (Prince Albert's Own)"
+                            "label": "Eleventh Hussars (Prince Albert's Own)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642097.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Eleventh Hussars (Prince Albert's Own) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-4",
                             "@type": "sc:Range",
-                            "label": "Thirteenth Hussars"
+                            "label": "Thirteenth Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642097.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Thirteenth Hussars - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-5",
                             "@type": "sc:Range",
-                            "label": "Fourteenth (King's) Hussars"
+                            "label": "Fourteenth (King's) Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Fourteenth (King's) Hussars - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-6",
                             "@type": "sc:Range",
-                            "label": "Fifteenth Hussars (The King's)"
+                            "label": "Fifteenth Hussars (The King's)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Fifteenth Hussars (The King's) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-7",
                             "@type": "sc:Range",
-                            "label": "Eighteenth Hussars (Queen Mary's Own Royal)"
+                            "label": "Eighteenth Hussars (Queen Mary's Own Royal)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Eighteenth Hussars (Queen Mary's Own Royal) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-8",
                             "@type": "sc:Range",
-                            "label": "Nineteenth Hussars (Queen Alexandra's Own Royals)"
+                            "label": "Nineteenth Hussars (Queen Alexandra's Own Royals)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Nineteenth Hussars (Queen Alexandra's Own Royals) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-9",
                             "@type": "sc:Range",
-                            "label": "Twentieth Hussars"
+                            "label": "Twentieth Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Twentieth Hussars - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-10",
                             "@type": "sc:Range",
-                            "label": "Second Reserve Regiment of Cavalry"
+                            "label": "Second Reserve Regiment of Cavalry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Second Reserve Regiment of Cavalry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-11",
                             "@type": "sc:Range",
-                            "label": "Third Reserve Regiment of Cavalry"
+                            "label": "Third Reserve Regiment of Cavalry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642098.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Third Reserve Regiment of Cavalry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-12",
                             "@type": "sc:Range",
-                            "label": "North Irish Horse"
+                            "label": "North Irish Horse",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642099.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "North Irish Horse - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-13",
                             "@type": "sc:Range",
-                            "label": "Royal Bucks Hussars"
+                            "label": "Royal Bucks Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642099.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Royal Bucks Hussars - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-14",
                             "@type": "sc:Range",
-                            "label": "Denbighshire Yeomanry"
+                            "label": "Denbighshire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642099.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Denbighshire Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-15",
                             "@type": "sc:Range",
-                            "label": "Royal Gloucestershire Hussars"
+                            "label": "Royal Gloucestershire Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642099.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Royal Gloucestershire Hussars - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642100.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Royal Gloucestershire Hussars - pg. 2"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-16",
                             "@type": "sc:Range",
-                            "label": "Leicestershire Yeomanry"
+                            "label": "Leicestershire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642100.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Leicestershire Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-17",
                             "@type": "sc:Range",
-                            "label": "First County of London Yeomanry"
+                            "label": "First County of London Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642100.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "First County of London Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-18",
                             "@type": "sc:Range",
-                            "label": "Pembroke Yeomanry"
+                            "label": "Pembroke Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642100.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Pembroke Yeomanry - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Pembroke Yeomanry - pg. 2"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-19",
                             "@type": "sc:Range",
-                            "label": "Staffordshire Yeomanry (Queen's Own Royal Regiment)"
+                            "label": "Staffordshire Yeomanry (Queen's Own Royal Regiment)",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Staffordshire Yeomanry (Queen's Own Royal Regiment) - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-20",
                             "@type": "sc:Range",
-                            "label": "Westmorland & Cumberland Hussars"
+                            "label": "Westmorland & Cumberland Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Westmorland & Cumberland Hussars - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-21",
                             "@type": "sc:Range",
-                            "label": "Royal Wiltshire Hussars"
+                            "label": "Royal Wiltshire Hussars",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Royal Wiltshire Hussars - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-22",
                             "@type": "sc:Range",
-                            "label": "Worcestershire Yeomanry"
+                            "label": "Worcestershire Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Worcestershire Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-23",
                             "@type": "sc:Range",
-                            "label": "Welsh Horse Yeomanry"
+                            "label": "Welsh Horse Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Welsh Horse Yeomanry - pg. 1"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/4-4-24",
                             "@type": "sc:Range",
-                            "label": "Sussex Yeomanry"
+                            "label": "Sussex Yeomanry",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642101.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Sussex Yeomanry - pg. 1"
+                                }
+                            ]
                         }
                     ]
                 }
@@ -46525,12 +46947,166 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5-0-2",
                             "@type": "sc:Range",
-                            "label": "Territorial Force"
+                            "label": "Territorial Force",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642103.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642104.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 2"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642105.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 3"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642106.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 4"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642107.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 5"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642108.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 6"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642109.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 7"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642110.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 8"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642111.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 9"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642112.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 10"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642113.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 11"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642114.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 12"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642115.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 13"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642116.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 14"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642117.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 15"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642118.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 16"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642119.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 17"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642120.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 18"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642121.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 19"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642122.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 20"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642123.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 21"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642124.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 22"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642125.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 23"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642126.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 24"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642127.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 25"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5-0-3",
                             "@type": "sc:Range",
-                            "label": "Territorial Force"
+                            "label": "Territorial Force",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642127.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642128.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 2"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642129.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 3"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642130.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 4"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642131.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 5"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -46551,12 +47127,76 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5-1-1",
                             "@type": "sc:Range",
-                            "label": "Territorial Force"
+                            "label": "Territorial Force",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642131.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642132.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Territorial Force - pg. 2"
+                                }
+                            ]
                         },
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/5-1-2",
                             "@type": "sc:Range",
-                            "label": "Gunners"
+                            "label": "Gunners",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642132.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 1"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642133.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 2"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642134.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 3"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642135.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 4"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642136.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 5"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642137.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 6"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642138.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 7"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642139.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 8"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642140.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 9"
+                                },
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642141.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "Gunners - pg. 10"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -67282,7 +67922,14 @@
                         {
                             "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/97-0-0",
                             "@type": "sc:Range",
-                            "label": "First Service Battalion"
+                            "label": "First Service Battalion",
+                            "members": [
+                                {
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643034.json",
+                                    "@type": "sc:Canvas",
+                                    "label": "First Service Battalion - pg. 1"
+                                }
+                            ]
                         }
                     ]
                 }
