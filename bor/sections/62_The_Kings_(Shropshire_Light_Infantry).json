@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/64_The_King's_Royal_Rifle_Corps.json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/62_The_Kings_(Shropshire_Light_Infantry).json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
@@ -139,26 +139,26 @@
             "viewingHint": "paged",
             "canvases": [
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 32",
-                    "height": 7301,
-                    "width": 4873,
+                    "label": "SECOND GARRISON BATTN. pg. 18",
+                    "height": 7319,
+                    "width": 4885,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642912.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642898.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642912.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642898.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642912",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642898",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7301,
-                                    "width": 4873,
+                                    "height": 7319,
+                                    "width": 4885,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -173,34 +173,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7301,
-                                "width": 4873
+                                "height": 7319,
+                                "width": 4885
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 32",
-                    "height": 7301,
-                    "width": 4873,
+                    "label": "SECOND GARRISON BATTN. pg. 18",
+                    "height": 7319,
+                    "width": 4885,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642912.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642898.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642912.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642898.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642912",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642898",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7301,
-                                    "width": 4873,
+                                    "height": 7319,
+                                    "width": 4885,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -215,34 +215,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7301,
-                                "width": 4873
+                                "height": 7319,
+                                "width": 4885
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 32",
-                    "height": 7301,
-                    "width": 4873,
+                    "label": "SECOND GARRISON BATTN. pg. 18",
+                    "height": 7319,
+                    "width": 4885,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642912.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642898.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642912.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642898.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642912",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642898",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7301,
-                                    "width": 4873,
+                                    "height": 7319,
+                                    "width": 4885,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -257,31 +257,73 @@
                                         }
                                     ]
                                 },
-                                "height": 7301,
-                                "width": 4873
+                                "height": 7319,
+                                "width": 4885
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 33",
+                    "label": "SECOND GARRISON BATTN. pg. 18",
+                    "height": 7319,
+                    "width": 4885,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642898.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642898.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642898",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7319,
+                                    "width": 4885,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7319,
+                                "width": 4885
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642899.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 19",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642913.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642899.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642913.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642899.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642913",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642899",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -302,28 +344,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642899.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 33",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 20",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642913.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642900.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642913.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642900.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642913",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642900",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -344,28 +386,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 33",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 20",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642913.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642900.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642913.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642900.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642913",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642900",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -386,28 +428,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 33",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 21",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642913.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642901.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642913.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642901.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642913",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642901",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -428,238 +470,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 34",
-                    "height": 7321,
-                    "width": 4886,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642914.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642914.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642914",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7321,
-                                    "width": 4886,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7321,
-                                "width": 4886
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 34",
-                    "height": 7321,
-                    "width": 4886,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642914.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642914.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642914",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7321,
-                                    "width": 4886,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7321,
-                                "width": 4886
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 34",
-                    "height": 7321,
-                    "width": 4886,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642914.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642914.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642914",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7321,
-                                    "width": 4886,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7321,
-                                "width": 4886
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 34",
-                    "height": 7321,
-                    "width": 4886,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642914.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642914.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642914",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7321,
-                                    "width": 4886,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7321,
-                                "width": 4886
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 34",
-                    "height": 7321,
-                    "width": 4886,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642914.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642914.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642914",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7321,
-                                    "width": 4886,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7321,
-                                "width": 4886
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 35",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 21",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642915.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642901.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642915.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642901.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642915",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642901",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -680,28 +512,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 35",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 21",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642915.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642901.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642915.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642901.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642915",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642901",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -722,28 +554,154 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 35",
-                    "height": 7360,
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 22",
+                    "height": 7308,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642915.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642902.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642915.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642902.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642915",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642902",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7308,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7308,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 22",
+                    "height": 7308,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642902.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642902.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642902",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7308,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7308,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 22",
+                    "height": 7308,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642902.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642902.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642902",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7308,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7308,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 23",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642903.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642903.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642903",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -764,238 +722,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json",
                     "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 36",
-                    "height": 7286,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642916.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642916.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642916",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7286,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7286,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 36",
-                    "height": 7286,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642916.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642916.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642916",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7286,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7286,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 36",
-                    "height": 7286,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642916.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642916.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642916",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7286,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7286,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 36",
-                    "height": 7286,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642916.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642916.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642916",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7286,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7286,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                    "@type": "sc:Canvas",
-                    "label": "THE KING'S ROYAL RIFLE CORPS pg. 36",
-                    "height": 7286,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642916.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642916.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642916",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7286,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7286,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
-                    "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 37",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 23",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642917.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642903.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642917.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642903.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642917",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642903",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -1016,28 +764,112 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 37",
-                    "height": 7360,
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 24",
+                    "height": 7304,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642917.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642904.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642917.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642904.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642917",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642904",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7304,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7304,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 24",
+                    "height": 7304,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642904.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642904.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642904",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7304,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7304,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642905.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 25",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642905.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642905.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642905",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -1058,28 +890,70 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642905.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642906.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 37",
-                    "height": 7360,
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 26",
+                    "height": 7318,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642917.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642906.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642917.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642906.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642917",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642906",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7318,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7318,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642906.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642907.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 27",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642907.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642907.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642907",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -1100,28 +974,112 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642907.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 37",
-                    "height": 7360,
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 28",
+                    "height": 7297,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642917.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642908.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642917.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642908.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642917",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642908",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7297,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7297,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE KING'S SHROPSHIRE L.I. pg. 28",
+                    "height": 7297,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642908.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642908.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642908",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7297,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7297,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
+                    "@type": "sc:Canvas",
+                    "label": "NINTH BATTALION pg. 29",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642909.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642909.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642909",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -1142,28 +1100,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 37",
+                    "label": "NINTH BATTALION pg. 29",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642917.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642909.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642917.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642909.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642917",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642909",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -1184,28 +1142,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
                     "@type": "sc:Canvas",
-                    "label": "TWENTY-FIRST BATTALION pg. 37",
+                    "label": "NINTH BATTALION pg. 29",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642917.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642909.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642917.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642909.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642917",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642909",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -1226,7 +1184,49 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
+                    "@type": "sc:Canvas",
+                    "label": "NINTH BATTALION pg. 29",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642909.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642909.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642909",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7360,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7360,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
                         }
                     ]
                 }
@@ -1234,376 +1234,306 @@
         }
     ],
     "structures": {
-        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
         "@type": "sc:Range",
-        "label": "The King's Royal Rifle Corps",
+        "label": "The King's (Shropshire Light Infantry)",
         "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
         "canvases": [
-            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json"
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
         ],
         "members": [
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                 "@type": "sc:Canvas",
-                "label": "The King's Royal Rifle Corps - pg. 1"
+                "label": "The King's (Shropshire Light Infantry) - pg. 1"
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-1",
-                "@type": "sc:Range",
-                "label": "First Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
-                        "@type": "sc:Canvas",
-                        "label": "First Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-2",
-                "@type": "sc:Range",
-                "label": "Second Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642912.json",
-                        "@type": "sc:Canvas",
-                        "label": "Second Battalion - pg. 1"
-                    },
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
-                        "@type": "sc:Canvas",
-                        "label": "Second Battalion - pg. 2"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-3",
-                "@type": "sc:Range",
-                "label": "Third Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
-                        "@type": "sc:Canvas",
-                        "label": "Third Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-4",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-1",
                 "@type": "sc:Range",
                 "label": "Fourth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                         "@type": "sc:Canvas",
                         "label": "Fourth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-5",
-                "@type": "sc:Range",
-                "label": "Seventh Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642913.json",
-                        "@type": "sc:Canvas",
-                        "label": "Seventh Battalion - pg. 1"
-                    },
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                        "@type": "sc:Canvas",
-                        "label": "Seventh Battalion - pg. 2"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-6",
-                "@type": "sc:Range",
-                "label": "Eighth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                        "@type": "sc:Canvas",
-                        "label": "Eighth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-7",
-                "@type": "sc:Range",
-                "label": "Ninth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                        "@type": "sc:Canvas",
-                        "label": "Ninth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-8",
-                "@type": "sc:Range",
-                "label": "Tenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                        "@type": "sc:Canvas",
-                        "label": "Tenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-9",
-                "@type": "sc:Range",
-                "label": "Eleventh Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642914.json",
-                        "@type": "sc:Canvas",
-                        "label": "Eleventh Battalion - pg. 1"
-                    },
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json",
-                        "@type": "sc:Canvas",
-                        "label": "Eleventh Battalion - pg. 2"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-10",
-                "@type": "sc:Range",
-                "label": "Twelfth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json",
-                        "@type": "sc:Canvas",
-                        "label": "Twelfth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-11",
-                "@type": "sc:Range",
-                "label": "Thirteenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642915.json",
-                        "@type": "sc:Canvas",
-                        "label": "Thirteenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-12",
-                "@type": "sc:Range",
-                "label": "Fourteenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                        "@type": "sc:Canvas",
-                        "label": "Fourteenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-13",
-                "@type": "sc:Range",
-                "label": "Sixteenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                        "@type": "sc:Canvas",
-                        "label": "Sixteenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-14",
-                "@type": "sc:Range",
-                "label": "Seventeenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                        "@type": "sc:Canvas",
-                        "label": "Seventeenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-15",
-                "@type": "sc:Range",
-                "label": "Eighteenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                        "@type": "sc:Canvas",
-                        "label": "Eighteenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-16",
-                "@type": "sc:Range",
-                "label": "Twentieth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642916.json",
-                        "@type": "sc:Canvas",
-                        "label": "Twentieth Battalion - pg. 1"
-                    },
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
-                        "@type": "sc:Canvas",
-                        "label": "Twentieth Battalion - pg. 2"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-17",
-                "@type": "sc:Range",
-                "label": "Twent-first Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
-                        "@type": "sc:Canvas",
-                        "label": "Twent-first Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-18",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-2",
                 "@type": "sc:Range",
                 "label": "Depot",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                         "@type": "sc:Canvas",
                         "label": "Depot - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-19",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-3",
                 "@type": "sc:Range",
-                "label": "Ninth Battalion (The County of London Regiment)",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
+                "label": "First Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642899.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642898.json",
                         "@type": "sc:Canvas",
-                        "label": "Ninth Battalion (The County of London Regiment) - pg. 1"
+                        "label": "First Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642899.json",
+                        "@type": "sc:Canvas",
+                        "label": "First Battalion - pg. 2"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json",
+                        "@type": "sc:Canvas",
+                        "label": "First Battalion - pg. 3"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-20",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-4",
                 "@type": "sc:Range",
-                "label": "Second 15th Battalion (The County of London Regiment)",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
+                "label": "Second Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642900.json",
                         "@type": "sc:Canvas",
-                        "label": "Second 15th Battalion (The County of London Regiment) - pg. 1"
+                        "label": "Second Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
+                        "@type": "sc:Canvas",
+                        "label": "Second Battalion - pg. 2"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64-21",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-5",
                 "@type": "sc:Range",
-                "label": "Sixteenth Battalion (The County of London Regiment)",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/64",
+                "label": "Third Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642917.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
                         "@type": "sc:Canvas",
-                        "label": "Sixteenth Battalion (The County of London Regiment) - pg. 1"
+                        "label": "Third Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-6",
+                "@type": "sc:Range",
+                "label": "First Fourth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642901.json",
+                        "@type": "sc:Canvas",
+                        "label": "First Fourth Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
+                        "@type": "sc:Canvas",
+                        "label": "First Fourth Battalion - pg. 2"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-7",
+                "@type": "sc:Range",
+                "label": "Fourth Reserve Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
+                        "@type": "sc:Canvas",
+                        "label": "Fourth Reserve Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-8",
+                "@type": "sc:Range",
+                "label": "Fifth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642902.json",
+                        "@type": "sc:Canvas",
+                        "label": "Fifth Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json",
+                        "@type": "sc:Canvas",
+                        "label": "Fifth Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-9",
+                "@type": "sc:Range",
+                "label": "Sixth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642903.json",
+                        "@type": "sc:Canvas",
+                        "label": "Sixth Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json",
+                        "@type": "sc:Canvas",
+                        "label": "Sixth Battalion - pg. 2"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-10",
+                "@type": "sc:Range",
+                "label": "Seventh Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642905.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642906.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642907.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642904.json",
+                        "@type": "sc:Canvas",
+                        "label": "Seventh Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642905.json",
+                        "@type": "sc:Canvas",
+                        "label": "Seventh Battalion - pg. 2"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642906.json",
+                        "@type": "sc:Canvas",
+                        "label": "Seventh Battalion - pg. 3"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642907.json",
+                        "@type": "sc:Canvas",
+                        "label": "Seventh Battalion - pg. 4"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json",
+                        "@type": "sc:Canvas",
+                        "label": "Seventh Battalion - pg. 5"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-11",
+                "@type": "sc:Range",
+                "label": "Eighth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642908.json",
+                        "@type": "sc:Canvas",
+                        "label": "Eighth Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
+                        "@type": "sc:Canvas",
+                        "label": "Eighth Battalion - pg. 2"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-12",
+                "@type": "sc:Range",
+                "label": "Ninth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
+                        "@type": "sc:Canvas",
+                        "label": "Ninth Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-13",
+                "@type": "sc:Range",
+                "label": "Tenth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
+                        "@type": "sc:Canvas",
+                        "label": "Tenth Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62-14",
+                "@type": "sc:Range",
+                "label": "Serving at the time of death with the undermentioned Battalion of the 1/1st Herefords",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/62",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642909.json",
+                        "@type": "sc:Canvas",
+                        "label": "Serving at the time of death with the undermentioned Battalion of the 1/1st Herefords - pg. 1"
                     }
                 ]
             }

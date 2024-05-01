@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/75_Princess_Victoria's_(Royal_Irish_Fusiliers).json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/37_Kings_Own_Scottish_Borderers.json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
@@ -139,26 +139,26 @@
             "viewingHint": "paged",
             "canvases": [
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "FOURTEENTH BATTALION pg. 56",
-                    "height": 7309,
-                    "width": 4878,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642936.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642936.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642936",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7309,
-                                    "width": 4878,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -173,34 +173,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7309,
-                                "width": 4878
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "FOURTEENTH BATTALION pg. 56",
-                    "height": 7309,
-                    "width": 4878,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642936.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642936.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642936",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7309,
-                                    "width": 4878,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -215,34 +215,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7309,
-                                "width": 4878
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "FOURTEENTH BATTALION pg. 56",
-                    "height": 7309,
-                    "width": 4878,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642936.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642936.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642936",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7309,
-                                    "width": 4878,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -257,34 +257,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7309,
-                                "width": 4878
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "FOURTEENTH BATTALION pg. 56",
-                    "height": 7309,
-                    "width": 4878,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642936.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642936.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642936",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7309,
-                                    "width": 4878,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -299,34 +299,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7309,
-                                "width": 4878
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "SEVENTH BATTALION pg. 57",
-                    "height": 7360,
-                    "width": 4912,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642937.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642937.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642937",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4912,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -341,34 +341,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4912
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "SEVENTH BATTALION pg. 57",
-                    "height": 7360,
-                    "width": 4912,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642937.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642937.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642937",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4912,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -383,34 +383,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4912
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                     "@type": "sc:Canvas",
-                    "label": "SEVENTH BATTALION pg. 57",
-                    "height": 7360,
-                    "width": 4912,
+                    "label": "KING'S OWN SCOTTISH BORDERERS pg. 146",
+                    "height": 7299,
+                    "width": 4890,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642937.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642648.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642937.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642648.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642937",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642648",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4912,
+                                    "height": 7299,
+                                    "width": 4890,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -425,94 +425,10 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4912
+                                "height": 7299,
+                                "width": 4890
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
-                    "@type": "sc:Canvas",
-                    "label": "SEVENTH BATTALION pg. 57",
-                    "height": 7360,
-                    "width": 4912,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642937.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642937.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642937",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4912,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7360,
-                                "width": 4912
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
-                    "@type": "sc:Canvas",
-                    "label": "SEVENTH BATTALION pg. 57",
-                    "height": 7360,
-                    "width": 4912,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642937.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642937.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642937",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4912,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7360,
-                                "width": 4912
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                         }
                     ]
                 }
@@ -520,142 +436,112 @@
         }
     ],
     "structures": {
-        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
         "@type": "sc:Range",
-        "label": "Princess Victoria's (Royal Irish Fusiliers)",
+        "label": "King's Own Scottish Borderers",
         "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+        "canvases": [
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
+        ],
         "members": [
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-0",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
+                "@type": "sc:Canvas",
+                "label": "King's Own Scottish Borderers - pg. 1"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-1",
                 "@type": "sc:Range",
                 "label": "First Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                         "@type": "sc:Canvas",
                         "label": "First Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-1",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-2",
                 "@type": "sc:Range",
                 "label": "Second Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                         "@type": "sc:Canvas",
                         "label": "Second Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-2",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-3",
                 "@type": "sc:Range",
-                "label": "Fifth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+                "label": "First Fifth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                         "@type": "sc:Canvas",
-                        "label": "Fifth Battalion - pg. 1"
+                        "label": "First Fifth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-3",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-4",
                 "@type": "sc:Range",
                 "label": "Sixth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642936.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                         "@type": "sc:Canvas",
                         "label": "Sixth Battalion - pg. 1"
-                    },
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
-                        "@type": "sc:Canvas",
-                        "label": "Sixth Battalion - pg. 2"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-4",
-                "@type": "sc:Range",
-                "label": "Seventh Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
-                        "@type": "sc:Canvas",
-                        "label": "Seventh Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-5",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-5",
                 "@type": "sc:Range",
                 "label": "Eighth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                         "@type": "sc:Canvas",
                         "label": "Eighth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-6",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37-6",
                 "@type": "sc:Range",
                 "label": "Seventh Eighth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/37",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642648.json",
                         "@type": "sc:Canvas",
                         "label": "Seventh Eighth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75-7",
-                "@type": "sc:Range",
-                "label": "Ninth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/75",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642937.json",
-                        "@type": "sc:Canvas",
-                        "label": "Ninth Battalion - pg. 1"
                     }
                 ]
             }

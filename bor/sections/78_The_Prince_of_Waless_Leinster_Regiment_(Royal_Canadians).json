@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/78_The_Prince_of_Wales's_Leinster_Regiment_(Royal_Canadians).json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/78_The_Prince_of_Waless_Leinster_Regiment_(Royal_Canadians).json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",

@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/26_The_Prince_of_Wales's_Own_(West_Yorkshire_Regiment).json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/31_Alexandra,_Princess_of_Waless_Own_(Yorkshire_Regiment).json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
@@ -139,23 +139,233 @@
             "viewingHint": "paged",
             "canvases": [
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
                     "@type": "sc:Canvas",
-                    "label": "TWELFTH BATTALION pg. 62",
-                    "height": 7342,
-                    "width": 4880,
+                    "label": "ALEXANDRA, PRINCESS OF WALES'S OWN (YORKSHIRE R.) pg. 69",
+                    "height": 7326,
+                    "width": 4889,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642224.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642231.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642224.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642231.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642224",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642231",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7326,
+                                    "width": 4889,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7326,
+                                "width": 4889
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                    "@type": "sc:Canvas",
+                    "label": "ALEXANDRA, PRINCESS OF WALES'S OWN (YORKSHIRE R.) pg. 69",
+                    "height": 7326,
+                    "width": 4889,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642231.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642231.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642231",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7326,
+                                    "width": 4889,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7326,
+                                "width": 4889
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                    "@type": "sc:Canvas",
+                    "label": "ALEXANDRA, PRINCESS OF WALES'S OWN (YORKSHIRE R.) pg. 69",
+                    "height": 7326,
+                    "width": 4889,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642231.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642231.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642231",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7326,
+                                    "width": 4889,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7326,
+                                "width": 4889
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                    "@type": "sc:Canvas",
+                    "label": "ALEXANDRA, PRINCESS OF WALES'S OWN (YORKSHIRE R.) pg. 69",
+                    "height": 7326,
+                    "width": 4889,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642231.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642231.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642231",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7326,
+                                    "width": 4889,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7326,
+                                "width": 4889
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                    "@type": "sc:Canvas",
+                    "label": "ALEXANDRA, PRINCESS OF WALES'S OWN (YORKSHIRE R.) pg. 69",
+                    "height": 7326,
+                    "width": 4889,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642231.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642231.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642231",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7326,
+                                    "width": 4889,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7326,
+                                "width": 4889
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
+                    "@type": "sc:Canvas",
+                    "label": "YORKSHIRE REGIMENT pg. 70",
+                    "height": 7342,
+                    "width": 4880,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7342,
                                     "width": 4880,
@@ -176,28 +386,28 @@
                                 "height": 7342,
                                 "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "TWELFTH BATTALION pg. 62",
+                    "label": "YORKSHIRE REGIMENT pg. 70",
                     "height": 7342,
                     "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642224.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642224.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642224",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7342,
                                     "width": 4880,
@@ -218,28 +428,28 @@
                                 "height": 7342,
                                 "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "TWELFTH BATTALION pg. 62",
+                    "label": "YORKSHIRE REGIMENT pg. 70",
                     "height": 7342,
                     "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642224.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642224.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642224",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7342,
                                     "width": 4880,
@@ -260,28 +470,28 @@
                                 "height": 7342,
                                 "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "TWELFTH BATTALION pg. 62",
+                    "label": "YORKSHIRE REGIMENT pg. 70",
                     "height": 7342,
                     "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642224.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642224.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642224",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7342,
                                     "width": 4880,
@@ -302,31 +512,31 @@
                                 "height": 7342,
                                 "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "YORKSHIRE REGIMENT pg. 70",
+                    "height": 7342,
+                    "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7342,
+                                    "width": 4880,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -341,34 +551,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7342,
+                                "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "YORKSHIRE REGIMENT pg. 70",
+                    "height": 7342,
+                    "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7342,
+                                    "width": 4880,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -383,34 +593,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7342,
+                                "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "YORKSHIRE REGIMENT pg. 70",
+                    "height": 7342,
+                    "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7342,
+                                    "width": 4880,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -425,34 +635,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7342,
+                                "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "YORKSHIRE REGIMENT pg. 70",
+                    "height": 7342,
+                    "width": 4880,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642232.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642232.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642232",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7342,
+                                    "width": 4880,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -467,34 +677,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7342,
+                                "width": 4880
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "SECOND FOURTH BATTALION pg. 71",
+                    "height": 7330,
+                    "width": 4892,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642233.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642233.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642233",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7330,
+                                    "width": 4892,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -509,34 +719,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7330,
+                                "width": 4892
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "SECOND FOURTH BATTALION pg. 71",
+                    "height": 7330,
+                    "width": 4892,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642233.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642233.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642233",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7330,
+                                    "width": 4892,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -551,34 +761,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7330,
+                                "width": 4892
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
                     "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
+                    "label": "SECOND FOURTH BATTALION pg. 71",
+                    "height": 7330,
+                    "width": 4892,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642233.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642233.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642233",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
+                                    "height": 7330,
+                                    "width": 4892,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -593,94 +803,10 @@
                                         }
                                     ]
                                 },
-                                "height": 7360,
-                                "width": 4863
+                                "height": 7330,
+                                "width": 4892
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
-                    "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7360,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
-                        }
-                    ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
-                    "@type": "sc:Canvas",
-                    "label": "YORKSHIRE REGIMENT pg. 63",
-                    "height": 7360,
-                    "width": 4863,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642225.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642225.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642225",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4863,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7360,
-                                "width": 4863
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
                         }
                     ]
                 }
@@ -688,216 +814,246 @@
         }
     ],
     "structures": {
-        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
         "@type": "sc:Range",
-        "label": "The Prince of Wales's Own (West Yorkshire Regiment)",
+        "label": "Alexandra, Princess of Wales's Own (Yorkshire Regiment)",
         "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+        "canvases": [
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+        ],
         "members": [
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-0",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                "@type": "sc:Canvas",
+                "label": "Alexandra, Princess of Wales's Own (Yorkshire Regiment) - pg. 1"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-1",
                 "@type": "sc:Range",
-                "label": "Second Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Fifth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                        "@type": "sc:Canvas",
+                        "label": "Fifth Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-2",
+                "@type": "sc:Range",
+                "label": "First Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
+                        "@type": "sc:Canvas",
+                        "label": "First Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-3",
+                "@type": "sc:Range",
+                "label": "Second Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
                         "@type": "sc:Canvas",
                         "label": "Second Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-1",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-4",
                 "@type": "sc:Range",
-                "label": "Third Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Fourth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642231.json",
                         "@type": "sc:Canvas",
-                        "label": "Third Battalion - pg. 1"
+                        "label": "Fourth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-2",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-5",
                 "@type": "sc:Range",
-                "label": "First Fifth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Fifth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
-                        "label": "First Fifth Battalion - pg. 1"
+                        "label": "Fifth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-3",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-6",
                 "@type": "sc:Range",
-                "label": "Second Fifth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Sixth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642224.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
-                        "label": "Second Fifth Battalion - pg. 1"
+                        "label": "Sixth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-4",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-7",
                 "@type": "sc:Range",
-                "label": "First Seventh Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Seventh Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
-                        "label": "First Seventh Battalion - pg. 1"
+                        "label": "Seventh Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-5",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-8",
+                "@type": "sc:Range",
+                "label": "Eighth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
+                        "@type": "sc:Canvas",
+                        "label": "Eighth Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-9",
                 "@type": "sc:Range",
                 "label": "Ninth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
                         "label": "Ninth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-6",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-10",
                 "@type": "sc:Range",
                 "label": "Tenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
                         "label": "Tenth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-7",
-                "@type": "sc:Range",
-                "label": "Eleventh Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
-                        "@type": "sc:Canvas",
-                        "label": "Eleventh Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-8",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-11",
                 "@type": "sc:Range",
                 "label": "Twelfth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
                         "label": "Twelfth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-9",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-12",
                 "@type": "sc:Range",
-                "label": "Fifteenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Thirteenth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642232.json",
                         "@type": "sc:Canvas",
-                        "label": "Fifteenth Battalion - pg. 1"
+                        "label": "Thirteenth Battalion - pg. 1"
+                    },
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
+                        "@type": "sc:Canvas",
+                        "label": "Thirteenth Battalion - pg. 2"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-10",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-13",
                 "@type": "sc:Range",
-                "label": "Fifteenth Seventeenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "Second Fourth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
                         "@type": "sc:Canvas",
-                        "label": "Fifteenth Seventeenth Battalion - pg. 1"
+                        "label": "Second Fourth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-11",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31-14",
                 "@type": "sc:Range",
-                "label": "Eighteenth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
+                "label": "First Garrison Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/31",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642233.json",
                         "@type": "sc:Canvas",
-                        "label": "Eighteenth Battalion - pg. 1"
-                    }
-                ]
-            },
-            {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26-12",
-                "@type": "sc:Range",
-                "label": "Twenty-first Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/26",
-                "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json"
-                ],
-                "members": [
-                    {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642225.json",
-                        "@type": "sc:Canvas",
-                        "label": "Twenty-first Battalion - pg. 1"
+                        "label": "First Garrison Battalion - pg. 1"
                     }
                 ]
             }

@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/59_Princess_Charlote_of_Wales's_(Royal_Berkshire_Regiment).json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/71_Seaforth_Highland_(Ross-shire_Buffs,_The_Duke_of_Albanys).json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
@@ -139,23 +139,23 @@
             "viewingHint": "paged",
             "canvases": [
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
                     "@type": "sc:Canvas",
-                    "label": "NORTHAMPTONSHIRE REGIMT. pg. 11",
+                    "label": "NINTH (GLASGOW HIGHLAND)BATTALION pg. 51",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642891.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642931.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642891.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642931.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642891",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642931",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -176,28 +176,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
                     "@type": "sc:Canvas",
-                    "label": "NORTHAMPTONSHIRE REGIMT. pg. 11",
+                    "label": "NINTH (GLASGOW HIGHLAND)BATTALION pg. 51",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642891.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642931.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642891.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642931.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642891",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642931",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -218,28 +218,28 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
                     "@type": "sc:Canvas",
-                    "label": "NORTHAMPTONSHIRE REGIMT. pg. 11",
+                    "label": "NINTH (GLASGOW HIGHLAND)BATTALION pg. 51",
                     "height": 7360,
                     "width": 4912,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642891.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642931.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642891.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642931.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642891",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642931",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
                                     "height": 7360,
                                     "width": 4912,
@@ -260,31 +260,31 @@
                                 "height": 7360,
                                 "width": 4912
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                     "@type": "sc:Canvas",
-                    "label": "ROYAL BERKSHIRE REGIMENT. pg. 12",
-                    "height": 7318,
-                    "width": 4912,
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642892.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642892.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642892",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7318,
-                                    "width": 4912,
+                                    "height": 7288,
+                                    "width": 4864,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -299,34 +299,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7318,
-                                "width": 4912
+                                "height": 7288,
+                                "width": 4864
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                     "@type": "sc:Canvas",
-                    "label": "ROYAL BERKSHIRE REGIMENT. pg. 12",
-                    "height": 7318,
-                    "width": 4912,
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642892.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642892.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642892",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7318,
-                                    "width": 4912,
+                                    "height": 7288,
+                                    "width": 4864,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -341,34 +341,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7318,
-                                "width": 4912
+                                "height": 7288,
+                                "width": 4864
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                     "@type": "sc:Canvas",
-                    "label": "ROYAL BERKSHIRE REGIMENT. pg. 12",
-                    "height": 7318,
-                    "width": 4912,
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642892.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642892.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642892",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7318,
-                                    "width": 4912,
+                                    "height": 7288,
+                                    "width": 4864,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -383,34 +383,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7318,
-                                "width": 4912
+                                "height": 7288,
+                                "width": 4864
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                     "@type": "sc:Canvas",
-                    "label": "ROYAL BERKSHIRE REGIMENT. pg. 12",
-                    "height": 7318,
-                    "width": 4912,
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642892.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642892.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642892",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7318,
-                                    "width": 4912,
+                                    "height": 7288,
+                                    "width": 4864,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -425,34 +425,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7318,
-                                "width": 4912
+                                "height": 7288,
+                                "width": 4864
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                     "@type": "sc:Canvas",
-                    "label": "ROYAL BERKSHIRE REGIMENT. pg. 12",
-                    "height": 7318,
-                    "width": 4912,
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642892.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642892.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642892",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7318,
-                                    "width": 4912,
+                                    "height": 7288,
+                                    "width": 4864,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -467,34 +467,34 @@
                                         }
                                     ]
                                 },
-                                "height": 7318,
-                                "width": 4912
+                                "height": 7288,
+                                "width": 4864
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                         }
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                     "@type": "sc:Canvas",
-                    "label": "ROYAL BERKSHIRE REGIMENT. pg. 12",
-                    "height": 7318,
-                    "width": 4912,
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
                     "images": [
                         {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642892.json",
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
                             "@type": "oa:Annotation",
                             "motivation": "sc:painting",
                             "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642892.jpg",
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
                                 "@type": "dctypes:Image",
                                 "format": "image/jpeg",
                                 "service": {
                                     "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642892",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
                                     "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7318,
-                                    "width": 4912,
+                                    "height": 7288,
+                                    "width": 4864,
                                     "tiles": [
                                         {
                                             "width": 256,
@@ -509,10 +509,52 @@
                                         }
                                     ]
                                 },
-                                "height": 7318,
-                                "width": 4912
+                                "height": 7288,
+                                "width": 4864
                             },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
+                    "@type": "sc:Canvas",
+                    "label": "THE SEAFORTH HIGHLANDERS pg. 52",
+                    "height": 7288,
+                    "width": 4864,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642932.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642932.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642932",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7288,
+                                    "width": 4864,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7288,
+                                "width": 4864
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                         }
                     ]
                 }
@@ -520,134 +562,150 @@
         }
     ],
     "structures": {
-        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
         "@type": "sc:Range",
-        "label": "Princess Charlote of Wales's (Royal Berkshire Regiment)",
+        "label": "Seaforth Highland (Ross-shire Buffs, The Duke of Albany's)",
         "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
         "canvases": [
-            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json"
         ],
         "members": [
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
                 "@type": "sc:Canvas",
-                "label": "Princess Charlote of Wales's (Royal Berkshire Regiment) - pg. 1"
+                "label": "Seaforth Highland (Ross-shire Buffs, The Duke of Albany's) - pg. 1"
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-1",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-1",
                 "@type": "sc:Range",
                 "label": "First Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
                         "@type": "sc:Canvas",
                         "label": "First Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-2",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-2",
                 "@type": "sc:Range",
                 "label": "Second Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642891.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642931.json",
                         "@type": "sc:Canvas",
                         "label": "Second Battalion - pg. 1"
                     },
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                         "@type": "sc:Canvas",
                         "label": "Second Battalion - pg. 2"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-3",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-3",
                 "@type": "sc:Range",
-                "label": "Second Fourth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "label": "Fourth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                         "@type": "sc:Canvas",
-                        "label": "Second Fourth Battalion - pg. 1"
+                        "label": "Fourth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-4",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-4",
                 "@type": "sc:Range",
                 "label": "Fifth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                         "@type": "sc:Canvas",
                         "label": "Fifth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-5",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-5",
                 "@type": "sc:Range",
                 "label": "Sixth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                         "@type": "sc:Canvas",
                         "label": "Sixth Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-6",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-6",
                 "@type": "sc:Range",
                 "label": "Seventh Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                         "@type": "sc:Canvas",
                         "label": "Seventh Battalion - pg. 1"
                     }
                 ]
             },
             {
-                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59-7",
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-7",
                 "@type": "sc:Range",
                 "label": "Eighth Battalion",
-                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/59",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
                 "canvases": [
-                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json"
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
                 ],
                 "members": [
                     {
-                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642892.json",
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
                         "@type": "sc:Canvas",
                         "label": "Eighth Battalion - pg. 1"
+                    }
+                ]
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71-8",
+                "@type": "sc:Range",
+                "label": "Ninth Battalion",
+                "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/71",
+                "canvases": [
+                    "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json"
+                ],
+                "members": [
+                    {
+                        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642932.json",
+                        "@type": "sc:Canvas",
+                        "label": "Ninth Battalion - pg. 1"
                     }
                 ]
             }

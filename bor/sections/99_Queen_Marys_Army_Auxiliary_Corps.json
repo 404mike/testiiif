@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/99_Queen_Mary's_Army_Auxiliary_Corps.json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/99_Queen_Marys_Army_Auxiliary_Corps.json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",

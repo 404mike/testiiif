@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/25_Prince_Albert's_(Somerset_Light_Infantry).json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/25_Prince_Alberts_(Somerset_Light_Infantry).json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",

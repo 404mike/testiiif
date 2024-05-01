@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://404mike.github.io/testiiif/bor/sections/63_The_Duke_of_Cambridge's_Own_(The_Middlesex_Regiment).json",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/63_The_Duke_of_Cambridges_Own_(The_Middlesex_Regiment).json",
     "service": {
         "profile": "http://iiif.io/api/search/0/search",
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
