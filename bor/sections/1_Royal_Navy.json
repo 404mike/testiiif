@@ -391,48 +391,6 @@
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642034.json",
-                    "@type": "sc:Canvas",
-                    "label": "ROYAL NAVY (officers) pg.6",
-                    "height": 7360,
-                    "width": 4912,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642034.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642034.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642034",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7360,
-                                    "width": 4912,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7360,
-                                "width": 4912
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642034.json"
-                        }
-                    ]
-                },
-                {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642035.json",
                     "@type": "sc:Canvas",
                     "label": "ROYAL NAVY pg.7",

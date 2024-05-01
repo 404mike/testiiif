@@ -725,48 +725,6 @@
                             "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643054.json"
                         }
                     ]
-                },
-                {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643054.json",
-                    "@type": "sc:Canvas",
-                    "label": "CANADIAN EXPD. FORCE pg. 14",
-                    "height": 7280,
-                    "width": 4912,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643054.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643054.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643054",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7280,
-                                    "width": 4912,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7280,
-                                "width": 4912
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643054.json"
-                        }
-                    ]
                 }
             ]
         }

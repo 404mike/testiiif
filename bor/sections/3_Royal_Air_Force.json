@@ -307,48 +307,6 @@
                     ]
                 },
                 {
-                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642089.json",
-                    "@type": "sc:Canvas",
-                    "label": "ROYAL AIR FORCE pg. 7",
-                    "height": 7352,
-                    "width": 4866,
-                    "images": [
-                        {
-                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4642089.json",
-                            "@type": "oa:Annotation",
-                            "motivation": "sc:painting",
-                            "resource": {
-                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4642089.jpg",
-                                "@type": "dctypes:Image",
-                                "format": "image/jpeg",
-                                "service": {
-                                    "@context": "http://iiif.io/api/image/2/context.json",
-                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4642089",
-                                    "profile": "http://iiif.io/api/image/2/level1.json",
-                                    "height": 7352,
-                                    "width": 4866,
-                                    "tiles": [
-                                        {
-                                            "width": 256,
-                                            "scaleFactors": [
-                                                1,
-                                                2,
-                                                4,
-                                                8,
-                                                16,
-                                                32
-                                            ]
-                                        }
-                                    ]
-                                },
-                                "height": 7352,
-                                "width": 4866
-                            },
-                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642089.json"
-                        }
-                    ]
-                },
-                {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4642090.json",
                     "@type": "sc:Canvas",
                     "label": "ROYAL AIR FORCE pg. 8",
