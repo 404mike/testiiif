@@ -7,7 +7,7 @@
         "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
         "@context": "http://iiif.io/api/search/0/context.json"
     },
-    "label": "The Welsh Book of Remembrance 1928 - Wed",
+    "label": "The Welsh Book of Remembrance 1928 - Wed 2",
     "metadata": [
         {
             "label": [
@@ -69215,7 +69215,10 @@
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643055.json",
                     "@type": "sc:Canvas",
-                    "label": "Indian Army - pg. 1"
+                    "label": "Indian Army - pg. 1",
+                    "canvases": [
+                        "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643055.json"
+                    ]
                 },
                 {
                     "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/103-1",
