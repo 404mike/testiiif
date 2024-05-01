@@ -1,0 +1,586 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://404mike.github.io/testiiif/bor/sections/91_Royal_Army_Service_Corps.json",
+    "service": {
+        "profile": "http://iiif.io/api/search/0/search",
+        "@id": "https://damsssl.llgc.org.uk/iiif/4642022/search",
+        "@context": "http://iiif.io/api/search/0/context.json"
+    },
+    "label": "The Welsh Book of Remembrance 1928",
+    "metadata": [
+        {
+            "label": [
+                {
+                    "@value": "Title",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Teitl",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "The Welsh Book of Remembrance 1928"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Author",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Awdur",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "Windsor, Edward Duke of 1894-1972"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Physical description",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Disgrifiad ffisegol",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "1 manuscript volume, 1075 pages: parchment; 465mm x 320mm x 138mm."
+        },
+        {
+            "label": "",
+            "value": [
+                {
+                    "@value": "<a href=\"http://id.library.wales/vtls006828862\">View full catalogue record</a>",
+                    "@language": "en"
+                },
+                {
+                    "@value": "<a href=\"http://id.llyfrgell.cymru/vtls006828862\">Gweld y cofnod catalog llawn</a>",
+                    "@language": "cy-GB"
+                }
+            ]
+        },
+        {
+            "label": [
+                {
+                    "@value": "Permalink",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Dolen barhaol",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "<a href=\"http://hdl.handle.net/10107/4642022\">http://hdl.handle.net/10107/4642022</a>"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Language",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Iaith",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": "English;"
+        },
+        {
+            "label": [
+                {
+                    "@value": "Repository",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Ystorfa",
+                    "@language": "cy-GB"
+                }
+            ],
+            "value": [
+                {
+                    "@value": "This content has been digitised by The National Library of Wales",
+                    "@language": "en"
+                },
+                {
+                    "@value": "Digidwyd y cynnwys hwn gan Lyfrgell Genedlaethol Cymru",
+                    "@language": "cy-GB"
+                }
+            ]
+        }
+    ],
+    "description": "This volume is bound in morrocan leather and has gold lettering and lines on the boards and spine. The volume is made up of parchment pages sewn on 5 raised cords. The first page contains the Welsh text \"ER C\u00d4F\" and the signature, \"Edward P\", of Edward, Prince of Wales (later Edward VIII), and is dated \"12 June 1928\". The preface contains the following information in gold lettering: \"HEREIN ARE RECORDED THE NAMES OF THE MEN AND WOMEN OF WELSH BIRTH AND PARENTAGE AND OF ALL THE MEN BELONGING TO THE REGIMENT OF WALES WHO GAVE THEIR LIVES IN THE WAR OF 1914-1918 A:D: THEY ARE COMMEMORATED BY THEIR FELLOW COUNTRY MEN IN THE MEMORIAL ERECTED NEAR BY.\" The following is noted at the end of the volume: \"The work of Graily Hewitt, B.A., LL.B., of Lincoln's Inn, and his assistants Helen Hinkley, Ida D. Henstock, Florence Capey, and Helen Luker. Finished Mar. 1928. Treyford, Midhurst.\"",
+    "license": "http://hdl.handle.net/10107/Copyright_AllRightsReserved",
+    "logo": {
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo/full/400,/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/logo",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+        }
+    },
+    "attribution": [
+        {
+            "@value": "Welsh Centre for International Affairs",
+            "@language": "en"
+        },
+        {
+            "@value": "Canolfan Materion Rhyngwladol Cymru",
+            "@language": "cy-GB"
+        }
+    ],
+    "sequences": [
+        {
+            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/sequence/Physical.json",
+            "@type": "sc:Sequence",
+            "label": "Current Page Order",
+            "viewingDirection": "left-to-right",
+            "viewingHint": "paged",
+            "canvases": [
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643014.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 134",
+                    "height": 7308,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643014.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643014",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7308,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7308,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643014.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643015.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 135",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643015.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643015",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7360,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7360,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643015.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643016.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 136",
+                    "height": 7290,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643016.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643016.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643016",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7290,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7290,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643016.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643017.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 137",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643017.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643017.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643017",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7360,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7360,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643017.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643018.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 138",
+                    "height": 7290,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643018.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643018.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643018",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7290,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7290,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643018.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643019.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 139",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643019.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643019.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643019",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7360,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7360,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643019.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643020.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 140",
+                    "height": 7280,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643020.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643020.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643020",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7280,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7280,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643020.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643021.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY SERVICE CORPS pg. 141",
+                    "height": 7360,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643021.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643021.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643021",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7360,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7360,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643021.json"
+                        }
+                    ]
+                },
+                {
+                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json",
+                    "@type": "sc:Canvas",
+                    "label": "ROYAL ARMY MEDICAL CORPS pg. 142",
+                    "height": 7294,
+                    "width": 4912,
+                    "images": [
+                        {
+                            "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/annotation/4643022.json",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://dams.llgc.org.uk/iiif/2.0/4642022/res/4643022.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://damsssl.llgc.org.uk/iiif/2.0/image/4643022",
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "height": 7294,
+                                    "width": 4912,
+                                    "tiles": [
+                                        {
+                                            "width": 256,
+                                            "scaleFactors": [
+                                                1,
+                                                2,
+                                                4,
+                                                8,
+                                                16,
+                                                32
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "height": 7294,
+                                "width": 4912
+                            },
+                            "on": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "structures": {
+        "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/91",
+        "@type": "sc:Range",
+        "label": "Royal Army Service Corps",
+        "within": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/range/root",
+        "canvases": [
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643014.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643015.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643016.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643017.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643018.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643019.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643020.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643021.json",
+            "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json"
+        ],
+        "members": [
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643014.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 1"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643015.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 2"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643016.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 3"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643017.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 4"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643018.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 5"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643019.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 6"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643020.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 7"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643021.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 8"
+            },
+            {
+                "@id": "https://damsssl.llgc.org.uk/iiif/2.0/4642022/canvas/4643022.json",
+                "@type": "sc:Canvas",
+                "label": "Royal Army Service Corps - pg. 9"
+            }
+        ]
+    }
+}
